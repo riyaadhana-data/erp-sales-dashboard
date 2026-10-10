@@ -1,0 +1,1001 @@
+Order_ID,Order_Date,Customer_Name,Product_Name,Category,Quantity,Unit_Price,Total_Amount,City,Payment_Mode,Month
+ORD0001,5/21/2026,Customer_032,Mouse,Accessories,1,800,800,Faridabad,Cash,2026-05
+ORD0002,2/14/2026,Customer_076,Mouse,Accessories,5,800,4000,Gurugram,UPI,2026-02
+ORD0003,4/22/2026,Customer_030,Laptop,Electronics,1,55000,55000,Ghaziabad,UPI,2026-04
+ORD0004,8/3/2026,Customer_029,Monitor,Electronics,5,12000,60000,Gurugram,Credit Card,2026-08
+ORD0005,8/5/2026,Customer_044,Laptop,Electronics,2,55000,110000,Noida,Cash,2026-08
+ORD0006,2/22/2026,Customer_012,Monitor,Electronics,3,12000,36000,Gurugram,UPI,2026-02
+ORD0007,5/16/2026,Customer_006,Mobile,Electronics,3,25000,75000,Meerut,Debit Card,2026-05
+ORD0008,2/10/2026,Customer_071,Mouse,Accessories,4,800,3200,Noida,Credit Card,2026-02
+ORD0009,1/24/2026,Customer_085,Monitor,Electronics,1,12000,12000,Faridabad,Credit Card,2026-01
+ORD0010,2/21/2026,Customer_049,Mouse,Accessories,2,800,1600,Noida,Debit Card,2026-02
+ORD0011,7/9/2026,Customer_046,Mobile,Electronics,2,25000,50000,Faridabad,Credit Card,2026-07
+ORD0012,3/29/2026,Customer_069,Mouse,Accessories,5,800,4000,Meerut,Cash,2026-03
+ORD0013,7/14/2026,Customer_035,Keyboard,Accessories,4,1500,6000,Meerut,Cash,2026-07
+ORD0014,4/28/2026,Customer_005,Mobile,Electronics,1,25000,25000,Noida,Debit Card,2026-04
+ORD0015,4/19/2026,Customer_073,Printer,Office Equipment,1,15000,15000,Meerut,Credit Card,2026-04
+ORD0016,7/22/2026,Customer_083,Monitor,Electronics,4,12000,48000,Gurugram,Cash,2026-07
+ORD0017,5/7/2026,Customer_096,Printer,Office Equipment,2,15000,30000,Ghaziabad,Credit Card,2026-05
+ORD0018,7/24/2026,Customer_047,Headphones,Accessories,5,2000,10000,Faridabad,Cash,2026-07
+ORD0019,1/25/2026,Customer_015,Tablet,Electronics,1,30000,30000,Faridabad,Cash,2026-01
+ORD0020,2/2/2026,Customer_050,Headphones,Accessories,5,2000,10000,Gurugram,Debit Card,2026-02
+ORD0021,1/6/2026,Customer_088,Printer,Office Equipment,5,15000,75000,Meerut,UPI,2026-01
+ORD0022,2/27/2026,Customer_038,Printer,Office Equipment,3,15000,45000,Gurugram,Cash,2026-02
+ORD0023,5/15/2026,Customer_065,Tablet,Electronics,1,30000,30000,Faridabad,UPI,2026-05
+ORD0024,4/12/2026,Customer_020,Printer,Office Equipment,5,15000,75000,Noida,Cash,2026-04
+ORD0025,6/15/2026,Customer_063,Laptop,Electronics,5,55000,275000,Delhi,UPI,2026-06
+ORD0026,5/3/2026,Customer_008,Mobile,Electronics,3,25000,75000,Faridabad,UPI,2026-05
+ORD0027,2/5/2026,Customer_098,Mouse,Accessories,4,800,3200,Ghaziabad,Cash,2026-02
+ORD0028,3/26/2026,Customer_034,Keyboard,Accessories,4,1500,6000,Ghaziabad,Debit Card,2026-03
+ORD0029,4/13/2026,Customer_092,Monitor,Electronics,5,12000,60000,Noida,Debit Card,2026-04
+ORD0030,9/22/2026,Customer_058,Mobile,Electronics,4,25000,100000,Delhi,Cash,2026-09
+ORD0031,6/23/2026,Customer_003,Monitor,Electronics,1,12000,12000,Ghaziabad,Cash,2026-06
+ORD0032,2/6/2026,Customer_091,Monitor,Electronics,1,12000,12000,Meerut,UPI,2026-02
+ORD0033,1/17/2026,Customer_043,Monitor,Electronics,1,12000,12000,Delhi,Cash,2026-01
+ORD0034,4/20/2026,Customer_070,Printer,Office Equipment,4,15000,60000,Faridabad,Debit Card,2026-04
+ORD0035,7/28/2026,Customer_025,Monitor,Electronics,4,12000,48000,Delhi,UPI,2026-07
+ORD0036,8/5/2026,Customer_053,Headphones,Accessories,3,2000,6000,Gurugram,UPI,2026-08
+ORD0037,7/26/2026,Customer_094,Mouse,Accessories,1,800,800,Noida,UPI,2026-07
+ORD0038,4/8/2026,Customer_069,Monitor,Electronics,2,12000,24000,Gurugram,Cash,2026-04
+ORD0039,5/23/2026,Customer_060,Headphones,Accessories,2,2000,4000,Faridabad,UPI,2026-05
+ORD0040,2/20/2026,Customer_007,Tablet,Electronics,5,30000,150000,Meerut,UPI,2026-02
+ORD0041,3/27/2026,Customer_053,Mouse,Accessories,2,800,1600,Gurugram,Debit Card,2026-03
+ORD0042,1/31/2026,Customer_022,Monitor,Electronics,4,12000,48000,Gurugram,UPI,2026-01
+ORD0043,8/21/2026,Customer_037,Headphones,Accessories,3,2000,6000,Gurugram,Debit Card,2026-08
+ORD0044,6/1/2026,Customer_028,Keyboard,Accessories,2,1500,3000,Delhi,UPI,2026-06
+ORD0045,1/26/2026,Customer_075,Mobile,Electronics,1,25000,25000,Gurugram,Cash,2026-01
+ORD0046,2/11/2026,Customer_024,Laptop,Electronics,5,55000,275000,Delhi,UPI,2026-02
+ORD0047,3/3/2026,Customer_073,Monitor,Electronics,4,12000,48000,Faridabad,UPI,2026-03
+ORD0048,9/25/2026,Customer_041,Mouse,Accessories,4,800,3200,Noida,Cash,2026-09
+ORD0049,5/16/2026,Customer_051,Mobile,Electronics,2,25000,50000,Faridabad,Credit Card,2026-05
+ORD0050,2/7/2026,Customer_002,Tablet,Electronics,3,30000,90000,Gurugram,UPI,2026-02
+ORD0051,4/20/2026,Customer_065,Mouse,Accessories,5,800,4000,Noida,Cash,2026-04
+ORD0052,5/6/2026,Customer_048,Mobile,Electronics,1,25000,25000,Noida,Cash,2026-05
+ORD0053,6/4/2026,Customer_079,Tablet,Electronics,5,30000,150000,Meerut,UPI,2026-06
+ORD0054,3/10/2026,Customer_034,Printer,Office Equipment,1,15000,15000,Delhi,UPI,2026-03
+ORD0055,5/25/2026,Customer_078,Keyboard,Accessories,3,1500,4500,Faridabad,Credit Card,2026-05
+ORD0056,9/16/2026,Customer_063,Monitor,Electronics,3,12000,36000,Noida,UPI,2026-09
+ORD0057,5/22/2026,Customer_006,Mouse,Accessories,4,800,3200,Delhi,Credit Card,2026-05
+ORD0058,3/24/2026,Customer_095,Keyboard,Accessories,3,1500,4500,Gurugram,Debit Card,2026-03
+ORD0059,2/8/2026,Customer_089,Laptop,Electronics,1,55000,55000,Faridabad,UPI,2026-02
+ORD0060,3/17/2026,Customer_056,Mobile,Electronics,5,25000,125000,Faridabad,UPI,2026-03
+ORD0061,1/21/2026,Customer_046,Printer,Office Equipment,3,15000,45000,Faridabad,Cash,2026-01
+ORD0062,7/28/2026,Customer_080,Mouse,Accessories,3,800,2400,Meerut,Cash,2026-07
+ORD0063,4/1/2026,Customer_053,Monitor,Electronics,2,12000,24000,Delhi,Cash,2026-04
+ORD0064,5/8/2026,Customer_035,Mobile,Electronics,4,25000,100000,Faridabad,UPI,2026-05
+ORD0065,8/29/2026,Customer_029,Headphones,Accessories,1,2000,2000,Faridabad,Debit Card,2026-08
+ORD0066,4/27/2026,Customer_029,Mobile,Electronics,3,25000,75000,Delhi,Cash,2026-04
+ORD0067,5/23/2026,Customer_009,Headphones,Accessories,3,2000,6000,Noida,Credit Card,2026-05
+ORD0068,6/19/2026,Customer_004,Headphones,Accessories,5,2000,10000,Delhi,Credit Card,2026-06
+ORD0069,5/16/2026,Customer_005,Keyboard,Accessories,5,1500,7500,Delhi,Debit Card,2026-05
+ORD0070,8/12/2026,Customer_078,Mobile,Electronics,3,25000,75000,Ghaziabad,UPI,2026-08
+ORD0071,4/8/2026,Customer_033,Headphones,Accessories,5,2000,10000,Delhi,Debit Card,2026-04
+ORD0072,4/11/2026,Customer_047,Laptop,Electronics,5,55000,275000,Gurugram,UPI,2026-04
+ORD0073,6/10/2026,Customer_085,Mobile,Electronics,5,25000,125000,Delhi,Credit Card,2026-06
+ORD0074,6/17/2026,Customer_052,Printer,Office Equipment,4,15000,60000,Meerut,Credit Card,2026-06
+ORD0075,8/4/2026,Customer_086,Keyboard,Accessories,2,1500,3000,Gurugram,Cash,2026-08
+ORD0076,1/1/2026,Customer_039,Printer,Office Equipment,4,15000,60000,Noida,Cash,2026-01
+ORD0077,6/14/2026,Customer_060,Headphones,Accessories,5,2000,10000,Gurugram,Debit Card,2026-06
+ORD0078,8/31/2026,Customer_095,Monitor,Electronics,5,12000,60000,Faridabad,UPI,2026-08
+ORD0079,6/21/2026,Customer_012,Printer,Office Equipment,5,15000,75000,Faridabad,Credit Card,2026-06
+ORD0080,3/17/2026,Customer_004,Monitor,Electronics,2,12000,24000,Delhi,Cash,2026-03
+ORD0081,2/7/2026,Customer_059,Tablet,Electronics,5,30000,150000,Gurugram,Cash,2026-02
+ORD0082,7/24/2026,Customer_032,Headphones,Accessories,4,2000,8000,Faridabad,UPI,2026-07
+ORD0083,4/23/2026,Customer_023,Mouse,Accessories,4,800,3200,Meerut,Debit Card,2026-04
+ORD0084,5/8/2026,Customer_016,Laptop,Electronics,5,55000,275000,Gurugram,Cash,2026-05
+ORD0085,6/12/2026,Customer_097,Tablet,Electronics,5,30000,150000,Gurugram,Debit Card,2026-06
+ORD0086,9/1/2026,Customer_058,Tablet,Electronics,2,30000,60000,Noida,Cash,2026-09
+ORD0087,9/6/2026,Customer_081,Printer,Office Equipment,5,15000,75000,Faridabad,Credit Card,2026-09
+ORD0088,5/27/2026,Customer_031,Tablet,Electronics,1,30000,30000,Noida,Credit Card,2026-05
+ORD0089,2/11/2026,Customer_018,Mobile,Electronics,5,25000,125000,Faridabad,Cash,2026-02
+ORD0090,4/20/2026,Customer_009,Headphones,Accessories,2,2000,4000,Gurugram,Debit Card,2026-04
+ORD0091,8/27/2026,Customer_054,Mobile,Electronics,5,25000,125000,Delhi,Cash,2026-08
+ORD0092,1/11/2026,Customer_098,Headphones,Accessories,4,2000,8000,Ghaziabad,Debit Card,2026-01
+ORD0093,6/30/2026,Customer_039,Tablet,Electronics,1,30000,30000,Gurugram,Debit Card,2026-06
+ORD0094,4/23/2026,Customer_035,Monitor,Electronics,4,12000,48000,Gurugram,Debit Card,2026-04
+ORD0095,6/22/2026,Customer_086,Laptop,Electronics,4,55000,220000,Meerut,Debit Card,2026-06
+ORD0096,3/7/2026,Customer_080,Keyboard,Accessories,4,1500,6000,Ghaziabad,UPI,2026-03
+ORD0097,1/14/2026,Customer_011,Headphones,Accessories,5,2000,10000,Meerut,Debit Card,2026-01
+ORD0098,4/4/2026,Customer_007,Keyboard,Accessories,4,1500,6000,Noida,Debit Card,2026-04
+ORD0099,8/21/2026,Customer_042,Mobile,Electronics,2,25000,50000,Noida,Debit Card,2026-08
+ORD0100,5/10/2026,Customer_011,Printer,Office Equipment,4,15000,60000,Gurugram,UPI,2026-05
+ORD0101,4/25/2026,Customer_084,Laptop,Electronics,3,55000,165000,Delhi,UPI,2026-04
+ORD0102,4/13/2026,Customer_003,Laptop,Electronics,2,55000,110000,Ghaziabad,Cash,2026-04
+ORD0103,8/31/2026,Customer_086,Monitor,Electronics,2,12000,24000,Delhi,Cash,2026-08
+ORD0104,7/8/2026,Customer_022,Tablet,Electronics,3,30000,90000,Ghaziabad,UPI,2026-07
+ORD0105,2/25/2026,Customer_075,Keyboard,Accessories,3,1500,4500,Delhi,Credit Card,2026-02
+ORD0106,4/12/2026,Customer_010,Headphones,Accessories,4,2000,8000,Ghaziabad,Cash,2026-04
+ORD0107,3/3/2026,Customer_073,Mouse,Accessories,3,800,2400,Delhi,Credit Card,2026-03
+ORD0108,2/5/2026,Customer_065,Headphones,Accessories,3,2000,6000,Meerut,Credit Card,2026-02
+ORD0109,9/8/2026,Customer_014,Laptop,Electronics,4,55000,220000,Gurugram,Credit Card,2026-09
+ORD0110,8/11/2026,Customer_023,Tablet,Electronics,2,30000,60000,Meerut,Credit Card,2026-08
+ORD0111,8/12/2026,Customer_094,Tablet,Electronics,4,30000,120000,Ghaziabad,Credit Card,2026-08
+ORD0112,2/14/2026,Customer_036,Mobile,Electronics,2,25000,50000,Gurugram,Cash,2026-02
+ORD0113,7/14/2026,Customer_044,Tablet,Electronics,5,30000,150000,Delhi,Debit Card,2026-07
+ORD0114,9/7/2026,Customer_028,Mobile,Electronics,2,25000,50000,Noida,Credit Card,2026-09
+ORD0115,5/22/2026,Customer_072,Mobile,Electronics,3,25000,75000,Delhi,Cash,2026-05
+ORD0116,7/28/2026,Customer_063,Mouse,Accessories,2,800,1600,Ghaziabad,Cash,2026-07
+ORD0117,8/18/2026,Customer_003,Tablet,Electronics,4,30000,120000,Delhi,Credit Card,2026-08
+ORD0118,5/5/2026,Customer_040,Monitor,Electronics,4,12000,48000,Meerut,Credit Card,2026-05
+ORD0119,9/29/2026,Customer_045,Tablet,Electronics,5,30000,150000,Gurugram,Credit Card,2026-09
+ORD0120,5/19/2026,Customer_040,Mobile,Electronics,4,25000,100000,Noida,Cash,2026-05
+ORD0121,6/11/2026,Customer_016,Mouse,Accessories,2,800,1600,Meerut,Cash,2026-06
+ORD0122,9/5/2026,Customer_036,Monitor,Electronics,2,12000,24000,Meerut,Credit Card,2026-09
+ORD0123,6/1/2026,Customer_030,Mouse,Accessories,2,800,1600,Noida,Cash,2026-06
+ORD0124,3/6/2026,Customer_036,Printer,Office Equipment,1,15000,15000,Delhi,UPI,2026-03
+ORD0125,9/9/2026,Customer_014,Printer,Office Equipment,2,15000,30000,Delhi,Credit Card,2026-09
+ORD0126,8/14/2026,Customer_044,Tablet,Electronics,4,30000,120000,Faridabad,UPI,2026-08
+ORD0127,2/28/2026,Customer_009,Printer,Office Equipment,4,15000,60000,Gurugram,Debit Card,2026-02
+ORD0128,1/28/2026,Customer_020,Mouse,Accessories,5,800,4000,Faridabad,Credit Card,2026-01
+ORD0129,3/2/2026,Customer_072,Mouse,Accessories,2,800,1600,Gurugram,Cash,2026-03
+ORD0130,8/15/2026,Customer_039,Headphones,Accessories,4,2000,8000,Ghaziabad,Debit Card,2026-08
+ORD0131,1/31/2026,Customer_079,Printer,Office Equipment,5,15000,75000,Meerut,UPI,2026-01
+ORD0132,5/16/2026,Customer_085,Monitor,Electronics,2,12000,24000,Delhi,Cash,2026-05
+ORD0133,2/8/2026,Customer_021,Monitor,Electronics,2,12000,24000,Delhi,Debit Card,2026-02
+ORD0134,8/29/2026,Customer_038,Tablet,Electronics,5,30000,150000,Delhi,Cash,2026-08
+ORD0135,8/21/2026,Customer_010,Printer,Office Equipment,3,15000,45000,Meerut,Cash,2026-08
+ORD0136,4/12/2026,Customer_055,Printer,Office Equipment,5,15000,75000,Delhi,Cash,2026-04
+ORD0137,3/14/2026,Customer_010,Keyboard,Accessories,3,1500,4500,Delhi,Cash,2026-03
+ORD0138,5/28/2026,Customer_057,Printer,Office Equipment,5,15000,75000,Delhi,Debit Card,2026-05
+ORD0139,5/20/2026,Customer_065,Printer,Office Equipment,4,15000,60000,Ghaziabad,Debit Card,2026-05
+ORD0140,1/21/2026,Customer_056,Tablet,Electronics,1,30000,30000,Meerut,Credit Card,2026-01
+ORD0141,2/16/2026,Customer_030,Printer,Office Equipment,1,15000,15000,Meerut,UPI,2026-02
+ORD0142,1/21/2026,Customer_098,Printer,Office Equipment,5,15000,75000,Faridabad,Debit Card,2026-01
+ORD0143,4/3/2026,Customer_075,Tablet,Electronics,3,30000,90000,Gurugram,Debit Card,2026-04
+ORD0144,6/28/2026,Customer_053,Mouse,Accessories,4,800,3200,Noida,Credit Card,2026-06
+ORD0145,6/18/2026,Customer_053,Mouse,Accessories,2,800,1600,Meerut,Debit Card,2026-06
+ORD0146,1/19/2026,Customer_059,Printer,Office Equipment,4,15000,60000,Delhi,Credit Card,2026-01
+ORD0147,3/1/2026,Customer_099,Printer,Office Equipment,3,15000,45000,Gurugram,UPI,2026-03
+ORD0148,1/28/2026,Customer_025,Tablet,Electronics,4,30000,120000,Ghaziabad,Credit Card,2026-01
+ORD0149,1/27/2026,Customer_027,Tablet,Electronics,4,30000,120000,Noida,Cash,2026-01
+ORD0150,9/6/2026,Customer_016,Printer,Office Equipment,4,15000,60000,Delhi,Cash,2026-09
+ORD0151,1/8/2026,Customer_071,Keyboard,Accessories,3,1500,4500,Gurugram,UPI,2026-01
+ORD0152,8/25/2026,Customer_016,Monitor,Electronics,1,12000,12000,Meerut,Cash,2026-08
+ORD0153,9/18/2026,Customer_091,Tablet,Electronics,3,30000,90000,Noida,Debit Card,2026-09
+ORD0154,5/5/2026,Customer_059,Tablet,Electronics,4,30000,120000,Ghaziabad,Cash,2026-05
+ORD0155,9/18/2026,Customer_096,Headphones,Accessories,2,2000,4000,Faridabad,UPI,2026-09
+ORD0156,6/24/2026,Customer_065,Printer,Office Equipment,4,15000,60000,Noida,UPI,2026-06
+ORD0157,9/8/2026,Customer_020,Printer,Office Equipment,3,15000,45000,Gurugram,Debit Card,2026-09
+ORD0158,7/13/2026,Customer_059,Mobile,Electronics,3,25000,75000,Noida,Cash,2026-07
+ORD0159,7/16/2026,Customer_030,Monitor,Electronics,5,12000,60000,Gurugram,UPI,2026-07
+ORD0160,7/15/2026,Customer_050,Mobile,Electronics,4,25000,100000,Meerut,Cash,2026-07
+ORD0161,3/6/2026,Customer_065,Tablet,Electronics,1,30000,30000,Ghaziabad,Credit Card,2026-03
+ORD0162,2/21/2026,Customer_068,Mouse,Accessories,4,800,3200,Gurugram,UPI,2026-02
+ORD0163,3/21/2026,Customer_010,Keyboard,Accessories,4,1500,6000,Gurugram,Credit Card,2026-03
+ORD0164,7/23/2026,Customer_084,Mobile,Electronics,5,25000,125000,Delhi,Credit Card,2026-07
+ORD0165,9/7/2026,Customer_070,Headphones,Accessories,3,2000,6000,Delhi,UPI,2026-09
+ORD0166,4/27/2026,Customer_096,Monitor,Electronics,3,12000,36000,Delhi,Debit Card,2026-04
+ORD0167,8/16/2026,Customer_022,Mouse,Accessories,1,800,800,Meerut,Credit Card,2026-08
+ORD0168,6/16/2026,Customer_008,Laptop,Electronics,1,55000,55000,Noida,Credit Card,2026-06
+ORD0169,3/16/2026,Customer_032,Mobile,Electronics,4,25000,100000,Ghaziabad,Debit Card,2026-03
+ORD0170,3/31/2026,Customer_011,Keyboard,Accessories,2,1500,3000,Ghaziabad,Debit Card,2026-03
+ORD0171,3/15/2026,Customer_030,Monitor,Electronics,4,12000,48000,Gurugram,Credit Card,2026-03
+ORD0172,1/5/2026,Customer_060,Tablet,Electronics,3,30000,90000,Noida,Cash,2026-01
+ORD0173,6/26/2026,Customer_076,Mouse,Accessories,4,800,3200,Noida,Debit Card,2026-06
+ORD0174,6/4/2026,Customer_026,Printer,Office Equipment,4,15000,60000,Gurugram,Debit Card,2026-06
+ORD0175,7/15/2026,Customer_074,Mouse,Accessories,2,800,1600,Noida,Credit Card,2026-07
+ORD0176,7/22/2026,Customer_036,Printer,Office Equipment,1,15000,15000,Delhi,UPI,2026-07
+ORD0177,4/28/2026,Customer_078,Tablet,Electronics,3,30000,90000,Noida,Cash,2026-04
+ORD0178,5/9/2026,Customer_087,Monitor,Electronics,5,12000,60000,Meerut,Cash,2026-05
+ORD0179,6/8/2026,Customer_057,Mouse,Accessories,1,800,800,Delhi,Credit Card,2026-06
+ORD0180,6/1/2026,Customer_042,Keyboard,Accessories,1,1500,1500,Meerut,Debit Card,2026-06
+ORD0181,3/9/2026,Customer_070,Keyboard,Accessories,2,1500,3000,Noida,Credit Card,2026-03
+ORD0182,9/4/2026,Customer_038,Keyboard,Accessories,3,1500,4500,Meerut,Credit Card,2026-09
+ORD0183,2/8/2026,Customer_019,Mouse,Accessories,4,800,3200,Faridabad,Debit Card,2026-02
+ORD0184,7/22/2026,Customer_002,Mobile,Electronics,1,25000,25000,Noida,UPI,2026-07
+ORD0185,5/15/2026,Customer_075,Tablet,Electronics,3,30000,90000,Gurugram,Credit Card,2026-05
+ORD0186,8/30/2026,Customer_004,Mouse,Accessories,2,800,1600,Ghaziabad,Credit Card,2026-08
+ORD0187,8/26/2026,Customer_090,Monitor,Electronics,1,12000,12000,Noida,Debit Card,2026-08
+ORD0188,1/24/2026,Customer_005,Mouse,Accessories,2,800,1600,Noida,Debit Card,2026-01
+ORD0189,5/1/2026,Customer_069,Mouse,Accessories,1,800,800,Faridabad,Debit Card,2026-05
+ORD0190,8/3/2026,Customer_076,Tablet,Electronics,3,30000,90000,Meerut,Cash,2026-08
+ORD0191,9/8/2026,Customer_079,Headphones,Accessories,1,2000,2000,Gurugram,Credit Card,2026-09
+ORD0192,4/22/2026,Customer_057,Laptop,Electronics,3,55000,165000,Gurugram,Cash,2026-04
+ORD0193,7/8/2026,Customer_070,Mobile,Electronics,1,25000,25000,Meerut,Credit Card,2026-07
+ORD0194,5/22/2026,Customer_025,Laptop,Electronics,4,55000,220000,Delhi,Debit Card,2026-05
+ORD0195,1/11/2026,Customer_007,Mouse,Accessories,2,800,1600,Noida,Cash,2026-01
+ORD0196,4/16/2026,Customer_009,Keyboard,Accessories,5,1500,7500,Ghaziabad,Cash,2026-04
+ORD0197,6/18/2026,Customer_100,Monitor,Electronics,2,12000,24000,Faridabad,UPI,2026-06
+ORD0198,3/8/2026,Customer_070,Printer,Office Equipment,2,15000,30000,Noida,Cash,2026-03
+ORD0199,3/9/2026,Customer_002,Mouse,Accessories,1,800,800,Noida,Cash,2026-03
+ORD0200,3/31/2026,Customer_034,Mobile,Electronics,1,25000,25000,Delhi,Cash,2026-03
+ORD0201,2/28/2026,Customer_096,Headphones,Accessories,5,2000,10000,Delhi,Debit Card,2026-02
+ORD0202,9/20/2026,Customer_076,Tablet,Electronics,3,30000,90000,Delhi,Debit Card,2026-09
+ORD0203,1/23/2026,Customer_094,Monitor,Electronics,5,12000,60000,Meerut,Credit Card,2026-01
+ORD0204,2/1/2026,Customer_062,Tablet,Electronics,1,30000,30000,Gurugram,Debit Card,2026-02
+ORD0205,8/16/2026,Customer_010,Mouse,Accessories,4,800,3200,Delhi,Credit Card,2026-08
+ORD0206,3/6/2026,Customer_036,Keyboard,Accessories,1,1500,1500,Ghaziabad,Credit Card,2026-03
+ORD0207,9/29/2026,Customer_038,Headphones,Accessories,5,2000,10000,Gurugram,Debit Card,2026-09
+ORD0208,4/21/2026,Customer_056,Mouse,Accessories,1,800,800,Gurugram,Cash,2026-04
+ORD0209,8/21/2026,Customer_052,Headphones,Accessories,3,2000,6000,Gurugram,UPI,2026-08
+ORD0210,6/10/2026,Customer_086,Mobile,Electronics,4,25000,100000,Noida,Credit Card,2026-06
+ORD0211,2/4/2026,Customer_012,Keyboard,Accessories,4,1500,6000,Delhi,UPI,2026-02
+ORD0212,7/10/2026,Customer_017,Headphones,Accessories,1,2000,2000,Ghaziabad,UPI,2026-07
+ORD0213,7/30/2026,Customer_046,Mobile,Electronics,1,25000,25000,Meerut,Debit Card,2026-07
+ORD0214,6/9/2026,Customer_046,Laptop,Electronics,3,55000,165000,Delhi,Cash,2026-06
+ORD0215,4/25/2026,Customer_014,Keyboard,Accessories,4,1500,6000,Noida,Credit Card,2026-04
+ORD0216,4/26/2026,Customer_055,Mouse,Accessories,3,800,2400,Ghaziabad,UPI,2026-04
+ORD0217,4/3/2026,Customer_035,Printer,Office Equipment,1,15000,15000,Meerut,Credit Card,2026-04
+ORD0218,1/4/2026,Customer_024,Mobile,Electronics,3,25000,75000,Faridabad,Debit Card,2026-01
+ORD0219,1/16/2026,Customer_012,Mouse,Accessories,2,800,1600,Meerut,Cash,2026-01
+ORD0220,8/21/2026,Customer_044,Headphones,Accessories,4,2000,8000,Faridabad,Credit Card,2026-08
+ORD0221,2/13/2026,Customer_007,Printer,Office Equipment,3,15000,45000,Faridabad,Cash,2026-02
+ORD0222,5/20/2026,Customer_057,Laptop,Electronics,1,55000,55000,Meerut,Debit Card,2026-05
+ORD0223,8/15/2026,Customer_054,Tablet,Electronics,5,30000,150000,Noida,Cash,2026-08
+ORD0224,8/9/2026,Customer_015,Mouse,Accessories,3,800,2400,Noida,Debit Card,2026-08
+ORD0225,4/23/2026,Customer_051,Printer,Office Equipment,1,15000,15000,Ghaziabad,UPI,2026-04
+ORD0226,6/4/2026,Customer_028,Laptop,Electronics,2,55000,110000,Faridabad,Credit Card,2026-06
+ORD0227,3/3/2026,Customer_001,Printer,Office Equipment,3,15000,45000,Gurugram,Debit Card,2026-03
+ORD0228,7/14/2026,Customer_069,Keyboard,Accessories,2,1500,3000,Meerut,Cash,2026-07
+ORD0229,7/23/2026,Customer_095,Mobile,Electronics,1,25000,25000,Delhi,Debit Card,2026-07
+ORD0230,2/9/2026,Customer_041,Laptop,Electronics,4,55000,220000,Ghaziabad,Debit Card,2026-02
+ORD0231,5/29/2026,Customer_015,Headphones,Accessories,4,2000,8000,Gurugram,UPI,2026-05
+ORD0232,8/24/2026,Customer_089,Mobile,Electronics,2,25000,50000,Noida,UPI,2026-08
+ORD0233,5/5/2026,Customer_056,Headphones,Accessories,1,2000,2000,Ghaziabad,Debit Card,2026-05
+ORD0234,6/8/2026,Customer_096,Mouse,Accessories,4,800,3200,Noida,Cash,2026-06
+ORD0235,2/9/2026,Customer_066,Mobile,Electronics,2,25000,50000,Meerut,UPI,2026-02
+ORD0236,6/29/2026,Customer_094,Monitor,Electronics,3,12000,36000,Meerut,Cash,2026-06
+ORD0237,3/16/2026,Customer_033,Monitor,Electronics,1,12000,12000,Faridabad,Cash,2026-03
+ORD0238,4/1/2026,Customer_099,Keyboard,Accessories,1,1500,1500,Meerut,Debit Card,2026-04
+ORD0239,8/18/2026,Customer_088,Tablet,Electronics,5,30000,150000,Ghaziabad,Credit Card,2026-08
+ORD0240,8/14/2026,Customer_009,Mobile,Electronics,2,25000,50000,Gurugram,Debit Card,2026-08
+ORD0241,1/29/2026,Customer_046,Printer,Office Equipment,3,15000,45000,Ghaziabad,UPI,2026-01
+ORD0242,8/20/2026,Customer_005,Printer,Office Equipment,4,15000,60000,Delhi,Credit Card,2026-08
+ORD0243,2/16/2026,Customer_079,Printer,Office Equipment,1,15000,15000,Ghaziabad,Debit Card,2026-02
+ORD0244,1/22/2026,Customer_058,Tablet,Electronics,5,30000,150000,Ghaziabad,Cash,2026-01
+ORD0245,9/1/2026,Customer_065,Mobile,Electronics,5,25000,125000,Faridabad,UPI,2026-09
+ORD0246,6/25/2026,Customer_092,Tablet,Electronics,1,30000,30000,Delhi,Cash,2026-06
+ORD0247,8/13/2026,Customer_057,Laptop,Electronics,2,55000,110000,Ghaziabad,Cash,2026-08
+ORD0248,5/25/2026,Customer_050,Mobile,Electronics,3,25000,75000,Gurugram,Credit Card,2026-05
+ORD0249,2/3/2026,Customer_043,Laptop,Electronics,3,55000,165000,Delhi,Debit Card,2026-02
+ORD0250,3/18/2026,Customer_043,Printer,Office Equipment,3,15000,45000,Delhi,Cash,2026-03
+ORD0251,7/20/2026,Customer_017,Mobile,Electronics,3,25000,75000,Ghaziabad,UPI,2026-07
+ORD0252,7/12/2026,Customer_083,Printer,Office Equipment,5,15000,75000,Noida,Cash,2026-07
+ORD0253,9/18/2026,Customer_047,Mouse,Accessories,4,800,3200,Delhi,Credit Card,2026-09
+ORD0254,4/20/2026,Customer_044,Printer,Office Equipment,2,15000,30000,Gurugram,Cash,2026-04
+ORD0255,3/21/2026,Customer_010,Monitor,Electronics,2,12000,24000,Noida,UPI,2026-03
+ORD0256,3/9/2026,Customer_077,Laptop,Electronics,3,55000,165000,Gurugram,Cash,2026-03
+ORD0257,3/26/2026,Customer_093,Keyboard,Accessories,2,1500,3000,Gurugram,UPI,2026-03
+ORD0258,5/2/2026,Customer_057,Headphones,Accessories,3,2000,6000,Ghaziabad,Credit Card,2026-05
+ORD0259,5/3/2026,Customer_040,Tablet,Electronics,2,30000,60000,Gurugram,Cash,2026-05
+ORD0260,8/14/2026,Customer_060,Mobile,Electronics,5,25000,125000,Noida,Debit Card,2026-08
+ORD0261,4/13/2026,Customer_078,Headphones,Accessories,2,2000,4000,Faridabad,Credit Card,2026-04
+ORD0262,7/10/2026,Customer_071,Laptop,Electronics,4,55000,220000,Delhi,UPI,2026-07
+ORD0263,3/24/2026,Customer_035,Printer,Office Equipment,1,15000,15000,Gurugram,Cash,2026-03
+ORD0264,4/24/2026,Customer_058,Headphones,Accessories,1,2000,2000,Noida,UPI,2026-04
+ORD0265,7/22/2026,Customer_065,Headphones,Accessories,1,2000,2000,Noida,Cash,2026-07
+ORD0266,7/11/2026,Customer_029,Headphones,Accessories,1,2000,2000,Delhi,Credit Card,2026-07
+ORD0267,3/16/2026,Customer_018,Mouse,Accessories,3,800,2400,Delhi,Credit Card,2026-03
+ORD0268,8/29/2026,Customer_058,Tablet,Electronics,2,30000,60000,Ghaziabad,UPI,2026-08
+ORD0269,5/12/2026,Customer_028,Mouse,Accessories,1,800,800,Faridabad,Debit Card,2026-05
+ORD0270,5/2/2026,Customer_039,Mouse,Accessories,3,800,2400,Delhi,UPI,2026-05
+ORD0271,8/23/2026,Customer_009,Monitor,Electronics,4,12000,48000,Delhi,Debit Card,2026-08
+ORD0272,5/4/2026,Customer_092,Laptop,Electronics,5,55000,275000,Faridabad,Credit Card,2026-05
+ORD0273,6/30/2026,Customer_031,Headphones,Accessories,1,2000,2000,Ghaziabad,Debit Card,2026-06
+ORD0274,9/26/2026,Customer_047,Keyboard,Accessories,1,1500,1500,Delhi,UPI,2026-09
+ORD0275,1/23/2026,Customer_082,Headphones,Accessories,4,2000,8000,Gurugram,Credit Card,2026-01
+ORD0276,7/2/2026,Customer_009,Printer,Office Equipment,1,15000,15000,Noida,Cash,2026-07
+ORD0277,6/20/2026,Customer_018,Mouse,Accessories,5,800,4000,Delhi,Credit Card,2026-06
+ORD0278,8/26/2026,Customer_090,Mobile,Electronics,2,25000,50000,Gurugram,Cash,2026-08
+ORD0279,8/23/2026,Customer_005,Keyboard,Accessories,1,1500,1500,Noida,Cash,2026-08
+ORD0280,1/22/2026,Customer_041,Laptop,Electronics,2,55000,110000,Noida,Debit Card,2026-01
+ORD0281,1/19/2026,Customer_097,Tablet,Electronics,3,30000,90000,Meerut,Cash,2026-01
+ORD0282,1/25/2026,Customer_084,Printer,Office Equipment,3,15000,45000,Noida,Credit Card,2026-01
+ORD0283,8/12/2026,Customer_052,Mouse,Accessories,3,800,2400,Meerut,Debit Card,2026-08
+ORD0284,4/6/2026,Customer_064,Headphones,Accessories,3,2000,6000,Meerut,Debit Card,2026-04
+ORD0285,5/17/2026,Customer_011,Mobile,Electronics,5,25000,125000,Meerut,Debit Card,2026-05
+ORD0286,4/3/2026,Customer_070,Mouse,Accessories,4,800,3200,Noida,Credit Card,2026-04
+ORD0287,6/17/2026,Customer_085,Mouse,Accessories,1,800,800,Noida,Credit Card,2026-06
+ORD0288,8/7/2026,Customer_022,Tablet,Electronics,5,30000,150000,Meerut,Debit Card,2026-08
+ORD0289,1/22/2026,Customer_094,Mobile,Electronics,4,25000,100000,Noida,Debit Card,2026-01
+ORD0290,2/8/2026,Customer_086,Printer,Office Equipment,1,15000,15000,Meerut,Debit Card,2026-02
+ORD0291,3/23/2026,Customer_004,Mobile,Electronics,5,25000,125000,Faridabad,Debit Card,2026-03
+ORD0292,2/4/2026,Customer_031,Laptop,Electronics,2,55000,110000,Meerut,Credit Card,2026-02
+ORD0293,1/17/2026,Customer_078,Mobile,Electronics,4,25000,100000,Faridabad,Debit Card,2026-01
+ORD0294,8/16/2026,Customer_098,Mobile,Electronics,3,25000,75000,Delhi,Cash,2026-08
+ORD0295,6/10/2026,Customer_084,Mobile,Electronics,4,25000,100000,Noida,Cash,2026-06
+ORD0296,4/6/2026,Customer_064,Mouse,Accessories,1,800,800,Ghaziabad,Debit Card,2026-04
+ORD0297,5/14/2026,Customer_091,Mouse,Accessories,3,800,2400,Gurugram,Cash,2026-05
+ORD0298,4/13/2026,Customer_016,Printer,Office Equipment,4,15000,60000,Faridabad,UPI,2026-04
+ORD0299,8/16/2026,Customer_012,Tablet,Electronics,2,30000,60000,Meerut,Credit Card,2026-08
+ORD0300,5/29/2026,Customer_039,Mobile,Electronics,1,25000,25000,Faridabad,Cash,2026-05
+ORD0301,4/25/2026,Customer_016,Mobile,Electronics,5,25000,125000,Faridabad,Cash,2026-04
+ORD0302,1/14/2026,Customer_047,Monitor,Electronics,4,12000,48000,Ghaziabad,Credit Card,2026-01
+ORD0303,3/8/2026,Customer_079,Tablet,Electronics,5,30000,150000,Delhi,UPI,2026-03
+ORD0304,9/3/2026,Customer_068,Printer,Office Equipment,4,15000,60000,Gurugram,Debit Card,2026-09
+ORD0305,6/12/2026,Customer_083,Mouse,Accessories,2,800,1600,Delhi,Debit Card,2026-06
+ORD0306,6/26/2026,Customer_017,Tablet,Electronics,5,30000,150000,Ghaziabad,Cash,2026-06
+ORD0307,9/15/2026,Customer_008,Keyboard,Accessories,4,1500,6000,Delhi,Cash,2026-09
+ORD0308,3/24/2026,Customer_042,Printer,Office Equipment,2,15000,30000,Meerut,Cash,2026-03
+ORD0309,5/26/2026,Customer_011,Mobile,Electronics,5,25000,125000,Noida,Cash,2026-05
+ORD0310,6/5/2026,Customer_079,Printer,Office Equipment,2,15000,30000,Ghaziabad,UPI,2026-06
+ORD0311,3/20/2026,Customer_022,Keyboard,Accessories,5,1500,7500,Meerut,Credit Card,2026-03
+ORD0312,2/11/2026,Customer_006,Laptop,Electronics,1,55000,55000,Meerut,Credit Card,2026-02
+ORD0313,8/2/2026,Customer_080,Monitor,Electronics,5,12000,60000,Meerut,UPI,2026-08
+ORD0314,5/29/2026,Customer_083,Tablet,Electronics,5,30000,150000,Noida,Debit Card,2026-05
+ORD0315,6/2/2026,Customer_059,Monitor,Electronics,4,12000,48000,Delhi,UPI,2026-06
+ORD0316,8/1/2026,Customer_062,Keyboard,Accessories,4,1500,6000,Gurugram,Cash,2026-08
+ORD0317,3/15/2026,Customer_041,Mobile,Electronics,5,25000,125000,Meerut,Credit Card,2026-03
+ORD0318,3/8/2026,Customer_098,Mobile,Electronics,4,25000,100000,Noida,UPI,2026-03
+ORD0319,8/27/2026,Customer_016,Mobile,Electronics,2,25000,50000,Noida,Debit Card,2026-08
+ORD0320,2/19/2026,Customer_007,Monitor,Electronics,2,12000,24000,Noida,Debit Card,2026-02
+ORD0321,3/23/2026,Customer_042,Headphones,Accessories,2,2000,4000,Ghaziabad,Credit Card,2026-03
+ORD0322,9/13/2026,Customer_066,Monitor,Electronics,2,12000,24000,Gurugram,Debit Card,2026-09
+ORD0323,1/12/2026,Customer_012,Printer,Office Equipment,4,15000,60000,Gurugram,Debit Card,2026-01
+ORD0324,6/30/2026,Customer_007,Monitor,Electronics,2,12000,24000,Delhi,Credit Card,2026-06
+ORD0325,8/29/2026,Customer_037,Tablet,Electronics,5,30000,150000,Ghaziabad,UPI,2026-08
+ORD0326,3/10/2026,Customer_034,Mouse,Accessories,4,800,3200,Meerut,Credit Card,2026-03
+ORD0327,1/24/2026,Customer_052,Headphones,Accessories,3,2000,6000,Delhi,Cash,2026-01
+ORD0328,5/28/2026,Customer_010,Mobile,Electronics,5,25000,125000,Gurugram,Debit Card,2026-05
+ORD0329,3/2/2026,Customer_017,Printer,Office Equipment,5,15000,75000,Delhi,Debit Card,2026-03
+ORD0330,7/7/2026,Customer_097,Mobile,Electronics,3,25000,75000,Faridabad,Cash,2026-07
+ORD0331,1/21/2026,Customer_006,Headphones,Accessories,5,2000,10000,Delhi,Cash,2026-01
+ORD0332,9/23/2026,Customer_059,Mobile,Electronics,4,25000,100000,Faridabad,Cash,2026-09
+ORD0333,6/13/2026,Customer_021,Mobile,Electronics,5,25000,125000,Gurugram,Credit Card,2026-06
+ORD0334,9/18/2026,Customer_069,Mobile,Electronics,5,25000,125000,Gurugram,Credit Card,2026-09
+ORD0335,7/8/2026,Customer_043,Tablet,Electronics,1,30000,30000,Meerut,UPI,2026-07
+ORD0336,6/7/2026,Customer_093,Headphones,Accessories,5,2000,10000,Meerut,UPI,2026-06
+ORD0337,4/27/2026,Customer_093,Tablet,Electronics,3,30000,90000,Delhi,Debit Card,2026-04
+ORD0338,7/14/2026,Customer_019,Keyboard,Accessories,5,1500,7500,Meerut,Cash,2026-07
+ORD0339,2/26/2026,Customer_025,Laptop,Electronics,5,55000,275000,Delhi,Debit Card,2026-02
+ORD0340,3/19/2026,Customer_053,Mobile,Electronics,4,25000,100000,Meerut,Cash,2026-03
+ORD0341,8/30/2026,Customer_095,Headphones,Accessories,5,2000,10000,Meerut,UPI,2026-08
+ORD0342,4/17/2026,Customer_072,Keyboard,Accessories,5,1500,7500,Noida,Debit Card,2026-04
+ORD0343,3/30/2026,Customer_059,Headphones,Accessories,3,2000,6000,Ghaziabad,Credit Card,2026-03
+ORD0344,9/5/2026,Customer_025,Mobile,Electronics,3,25000,75000,Faridabad,Credit Card,2026-09
+ORD0345,6/2/2026,Customer_099,Printer,Office Equipment,2,15000,30000,Noida,Cash,2026-06
+ORD0346,9/3/2026,Customer_045,Tablet,Electronics,3,30000,90000,Ghaziabad,Credit Card,2026-09
+ORD0347,7/14/2026,Customer_051,Printer,Office Equipment,1,15000,15000,Noida,Cash,2026-07
+ORD0348,5/28/2026,Customer_092,Printer,Office Equipment,1,15000,15000,Delhi,Credit Card,2026-05
+ORD0349,9/3/2026,Customer_028,Tablet,Electronics,3,30000,90000,Faridabad,Credit Card,2026-09
+ORD0350,2/25/2026,Customer_079,Printer,Office Equipment,2,15000,30000,Meerut,Cash,2026-02
+ORD0351,9/29/2026,Customer_029,Monitor,Electronics,1,12000,12000,Meerut,Cash,2026-09
+ORD0352,7/31/2026,Customer_043,Laptop,Electronics,1,55000,55000,Meerut,Debit Card,2026-07
+ORD0353,1/3/2026,Customer_071,Mouse,Accessories,2,800,1600,Faridabad,Debit Card,2026-01
+ORD0354,4/13/2026,Customer_097,Tablet,Electronics,4,30000,120000,Noida,Credit Card,2026-04
+ORD0355,2/15/2026,Customer_084,Printer,Office Equipment,1,15000,15000,Ghaziabad,Cash,2026-02
+ORD0356,8/2/2026,Customer_023,Laptop,Electronics,2,55000,110000,Delhi,Debit Card,2026-08
+ORD0357,5/29/2026,Customer_005,Tablet,Electronics,2,30000,60000,Delhi,Credit Card,2026-05
+ORD0358,5/26/2026,Customer_059,Mouse,Accessories,3,800,2400,Meerut,Debit Card,2026-05
+ORD0359,8/28/2026,Customer_035,Keyboard,Accessories,5,1500,7500,Faridabad,UPI,2026-08
+ORD0360,8/23/2026,Customer_083,Mobile,Electronics,2,25000,50000,Noida,Cash,2026-08
+ORD0361,6/1/2026,Customer_073,Laptop,Electronics,3,55000,165000,Meerut,Cash,2026-06
+ORD0362,7/27/2026,Customer_055,Keyboard,Accessories,5,1500,7500,Ghaziabad,Credit Card,2026-07
+ORD0363,2/18/2026,Customer_024,Mouse,Accessories,4,800,3200,Faridabad,Debit Card,2026-02
+ORD0364,1/4/2026,Customer_034,Mobile,Electronics,2,25000,50000,Gurugram,Cash,2026-01
+ORD0365,6/18/2026,Customer_039,Tablet,Electronics,3,30000,90000,Ghaziabad,UPI,2026-06
+ORD0366,5/1/2026,Customer_008,Printer,Office Equipment,3,15000,45000,Meerut,UPI,2026-05
+ORD0367,3/23/2026,Customer_052,Tablet,Electronics,3,30000,90000,Meerut,Credit Card,2026-03
+ORD0368,7/8/2026,Customer_079,Mouse,Accessories,3,800,2400,Faridabad,Cash,2026-07
+ORD0369,3/20/2026,Customer_059,Keyboard,Accessories,4,1500,6000,Meerut,Credit Card,2026-03
+ORD0370,8/30/2026,Customer_097,Headphones,Accessories,5,2000,10000,Ghaziabad,Cash,2026-08
+ORD0371,2/11/2026,Customer_068,Monitor,Electronics,5,12000,60000,Gurugram,Credit Card,2026-02
+ORD0372,2/27/2026,Customer_008,Mouse,Accessories,5,800,4000,Ghaziabad,Cash,2026-02
+ORD0373,6/17/2026,Customer_067,Keyboard,Accessories,2,1500,3000,Gurugram,UPI,2026-06
+ORD0374,9/8/2026,Customer_012,Monitor,Electronics,5,12000,60000,Ghaziabad,Debit Card,2026-09
+ORD0375,3/9/2026,Customer_066,Laptop,Electronics,4,55000,220000,Gurugram,Debit Card,2026-03
+ORD0376,8/25/2026,Customer_087,Laptop,Electronics,5,55000,275000,Noida,UPI,2026-08
+ORD0377,1/2/2026,Customer_096,Headphones,Accessories,3,2000,6000,Faridabad,UPI,2026-01
+ORD0378,6/26/2026,Customer_090,Laptop,Electronics,4,55000,220000,Delhi,UPI,2026-06
+ORD0379,1/17/2026,Customer_037,Mouse,Accessories,4,800,3200,Gurugram,Cash,2026-01
+ORD0380,7/11/2026,Customer_049,Keyboard,Accessories,4,1500,6000,Gurugram,Debit Card,2026-07
+ORD0381,3/10/2026,Customer_084,Headphones,Accessories,1,2000,2000,Noida,UPI,2026-03
+ORD0382,7/21/2026,Customer_068,Keyboard,Accessories,5,1500,7500,Faridabad,Cash,2026-07
+ORD0383,6/2/2026,Customer_060,Laptop,Electronics,1,55000,55000,Meerut,Debit Card,2026-06
+ORD0384,5/7/2026,Customer_059,Headphones,Accessories,2,2000,4000,Noida,Cash,2026-05
+ORD0385,2/27/2026,Customer_005,Printer,Office Equipment,2,15000,30000,Meerut,Debit Card,2026-02
+ORD0386,4/16/2026,Customer_009,Laptop,Electronics,2,55000,110000,Delhi,UPI,2026-04
+ORD0387,1/25/2026,Customer_032,Tablet,Electronics,5,30000,150000,Meerut,UPI,2026-01
+ORD0388,4/30/2026,Customer_070,Headphones,Accessories,4,2000,8000,Faridabad,UPI,2026-04
+ORD0389,5/29/2026,Customer_030,Keyboard,Accessories,5,1500,7500,Meerut,Credit Card,2026-05
+ORD0390,6/4/2026,Customer_019,Mobile,Electronics,2,25000,50000,Meerut,Cash,2026-06
+ORD0391,5/21/2026,Customer_008,Headphones,Accessories,3,2000,6000,Ghaziabad,Cash,2026-05
+ORD0392,9/11/2026,Customer_007,Headphones,Accessories,5,2000,10000,Noida,Debit Card,2026-09
+ORD0393,7/29/2026,Customer_020,Mobile,Electronics,4,25000,100000,Noida,Debit Card,2026-07
+ORD0394,8/31/2026,Customer_031,Keyboard,Accessories,5,1500,7500,Faridabad,Credit Card,2026-08
+ORD0395,1/30/2026,Customer_072,Keyboard,Accessories,4,1500,6000,Gurugram,Debit Card,2026-01
+ORD0396,5/5/2026,Customer_033,Keyboard,Accessories,4,1500,6000,Faridabad,Credit Card,2026-05
+ORD0397,7/9/2026,Customer_012,Mouse,Accessories,4,800,3200,Ghaziabad,Cash,2026-07
+ORD0398,7/13/2026,Customer_087,Laptop,Electronics,3,55000,165000,Ghaziabad,UPI,2026-07
+ORD0399,4/22/2026,Customer_062,Mouse,Accessories,2,800,1600,Faridabad,Credit Card,2026-04
+ORD0400,4/19/2026,Customer_025,Printer,Office Equipment,1,15000,15000,Meerut,UPI,2026-04
+ORD0401,4/15/2026,Customer_051,Tablet,Electronics,2,30000,60000,Faridabad,Credit Card,2026-04
+ORD0402,8/27/2026,Customer_069,Printer,Office Equipment,4,15000,60000,Meerut,Credit Card,2026-08
+ORD0403,7/4/2026,Customer_066,Printer,Office Equipment,3,15000,45000,Gurugram,Debit Card,2026-07
+ORD0404,6/13/2026,Customer_027,Mouse,Accessories,4,800,3200,Noida,Credit Card,2026-06
+ORD0405,4/24/2026,Customer_095,Headphones,Accessories,1,2000,2000,Faridabad,UPI,2026-04
+ORD0406,8/2/2026,Customer_038,Printer,Office Equipment,5,15000,75000,Faridabad,Cash,2026-08
+ORD0407,7/14/2026,Customer_073,Mobile,Electronics,2,25000,50000,Faridabad,Debit Card,2026-07
+ORD0408,9/8/2026,Customer_093,Mobile,Electronics,3,25000,75000,Meerut,Debit Card,2026-09
+ORD0409,6/30/2026,Customer_022,Tablet,Electronics,2,30000,60000,Faridabad,Debit Card,2026-06
+ORD0410,1/31/2026,Customer_068,Keyboard,Accessories,5,1500,7500,Delhi,UPI,2026-01
+ORD0411,7/31/2026,Customer_018,Laptop,Electronics,1,55000,55000,Meerut,Cash,2026-07
+ORD0412,1/5/2026,Customer_028,Mouse,Accessories,2,800,1600,Ghaziabad,Debit Card,2026-01
+ORD0413,9/5/2026,Customer_085,Mobile,Electronics,1,25000,25000,Gurugram,UPI,2026-09
+ORD0414,7/30/2026,Customer_002,Laptop,Electronics,5,55000,275000,Delhi,Credit Card,2026-07
+ORD0415,9/15/2026,Customer_090,Printer,Office Equipment,1,15000,15000,Meerut,Debit Card,2026-09
+ORD0416,2/19/2026,Customer_068,Keyboard,Accessories,1,1500,1500,Faridabad,Cash,2026-02
+ORD0417,9/27/2026,Customer_033,Monitor,Electronics,5,12000,60000,Noida,Credit Card,2026-09
+ORD0418,7/11/2026,Customer_052,Headphones,Accessories,1,2000,2000,Gurugram,Cash,2026-07
+ORD0419,2/11/2026,Customer_084,Monitor,Electronics,3,12000,36000,Meerut,UPI,2026-02
+ORD0420,7/14/2026,Customer_049,Mouse,Accessories,4,800,3200,Ghaziabad,Debit Card,2026-07
+ORD0421,3/29/2026,Customer_011,Laptop,Electronics,1,55000,55000,Gurugram,Debit Card,2026-03
+ORD0422,2/18/2026,Customer_068,Mobile,Electronics,5,25000,125000,Delhi,Cash,2026-02
+ORD0423,9/1/2026,Customer_035,Monitor,Electronics,5,12000,60000,Delhi,UPI,2026-09
+ORD0424,1/17/2026,Customer_023,Printer,Office Equipment,5,15000,75000,Noida,UPI,2026-01
+ORD0425,3/15/2026,Customer_097,Monitor,Electronics,5,12000,60000,Meerut,Debit Card,2026-03
+ORD0426,3/25/2026,Customer_073,Mouse,Accessories,3,800,2400,Faridabad,Debit Card,2026-03
+ORD0427,3/13/2026,Customer_089,Mobile,Electronics,4,25000,100000,Meerut,UPI,2026-03
+ORD0428,2/20/2026,Customer_056,Mobile,Electronics,1,25000,25000,Faridabad,UPI,2026-02
+ORD0429,7/23/2026,Customer_100,Mobile,Electronics,5,25000,125000,Noida,UPI,2026-07
+ORD0430,9/9/2026,Customer_030,Printer,Office Equipment,4,15000,60000,Noida,Debit Card,2026-09
+ORD0431,7/14/2026,Customer_011,Headphones,Accessories,2,2000,4000,Ghaziabad,Credit Card,2026-07
+ORD0432,2/12/2026,Customer_035,Monitor,Electronics,1,12000,12000,Faridabad,Debit Card,2026-02
+ORD0433,6/12/2026,Customer_047,Keyboard,Accessories,4,1500,6000,Delhi,UPI,2026-06
+ORD0434,8/16/2026,Customer_047,Laptop,Electronics,3,55000,165000,Noida,UPI,2026-08
+ORD0435,4/6/2026,Customer_056,Keyboard,Accessories,1,1500,1500,Gurugram,Debit Card,2026-04
+ORD0436,2/15/2026,Customer_046,Mouse,Accessories,1,800,800,Ghaziabad,UPI,2026-02
+ORD0437,1/7/2026,Customer_038,Mobile,Electronics,4,25000,100000,Gurugram,Debit Card,2026-01
+ORD0438,5/5/2026,Customer_074,Mouse,Accessories,5,800,4000,Ghaziabad,Cash,2026-05
+ORD0439,3/13/2026,Customer_035,Headphones,Accessories,2,2000,4000,Noida,Credit Card,2026-03
+ORD0440,2/2/2026,Customer_022,Tablet,Electronics,2,30000,60000,Gurugram,Credit Card,2026-02
+ORD0441,9/5/2026,Customer_010,Headphones,Accessories,3,2000,6000,Noida,Credit Card,2026-09
+ORD0442,4/11/2026,Customer_059,Monitor,Electronics,4,12000,48000,Delhi,Cash,2026-04
+ORD0443,7/22/2026,Customer_043,Printer,Office Equipment,1,15000,15000,Ghaziabad,Debit Card,2026-07
+ORD0444,6/21/2026,Customer_056,Mobile,Electronics,4,25000,100000,Meerut,Cash,2026-06
+ORD0445,4/13/2026,Customer_062,Printer,Office Equipment,3,15000,45000,Noida,Cash,2026-04
+ORD0446,5/30/2026,Customer_095,Headphones,Accessories,3,2000,6000,Meerut,Debit Card,2026-05
+ORD0447,7/12/2026,Customer_036,Monitor,Electronics,3,12000,36000,Gurugram,Credit Card,2026-07
+ORD0448,4/13/2026,Customer_076,Mouse,Accessories,5,800,4000,Ghaziabad,Cash,2026-04
+ORD0449,4/18/2026,Customer_057,Laptop,Electronics,4,55000,220000,Noida,UPI,2026-04
+ORD0450,3/13/2026,Customer_082,Headphones,Accessories,4,2000,8000,Noida,Cash,2026-03
+ORD0451,8/5/2026,Customer_049,Printer,Office Equipment,2,15000,30000,Delhi,Debit Card,2026-08
+ORD0452,7/25/2026,Customer_069,Tablet,Electronics,5,30000,150000,Ghaziabad,Debit Card,2026-07
+ORD0453,2/13/2026,Customer_014,Laptop,Electronics,3,55000,165000,Faridabad,Credit Card,2026-02
+ORD0454,1/23/2026,Customer_073,Keyboard,Accessories,5,1500,7500,Meerut,Debit Card,2026-01
+ORD0455,2/24/2026,Customer_002,Mobile,Electronics,4,25000,100000,Delhi,Credit Card,2026-02
+ORD0456,9/23/2026,Customer_072,Monitor,Electronics,5,12000,60000,Ghaziabad,Cash,2026-09
+ORD0457,7/20/2026,Customer_060,Tablet,Electronics,3,30000,90000,Meerut,Cash,2026-07
+ORD0458,9/5/2026,Customer_014,Mobile,Electronics,1,25000,25000,Noida,Debit Card,2026-09
+ORD0459,3/14/2026,Customer_045,Mouse,Accessories,1,800,800,Noida,Credit Card,2026-03
+ORD0460,9/24/2026,Customer_062,Tablet,Electronics,2,30000,60000,Noida,Debit Card,2026-09
+ORD0461,8/20/2026,Customer_041,Mouse,Accessories,4,800,3200,Delhi,Credit Card,2026-08
+ORD0462,1/12/2026,Customer_044,Laptop,Electronics,1,55000,55000,Meerut,UPI,2026-01
+ORD0463,9/22/2026,Customer_023,Keyboard,Accessories,2,1500,3000,Ghaziabad,Cash,2026-09
+ORD0464,8/7/2026,Customer_060,Mobile,Electronics,5,25000,125000,Faridabad,Debit Card,2026-08
+ORD0465,8/10/2026,Customer_051,Keyboard,Accessories,2,1500,3000,Delhi,Cash,2026-08
+ORD0466,8/8/2026,Customer_050,Tablet,Electronics,5,30000,150000,Delhi,Cash,2026-08
+ORD0467,2/2/2026,Customer_074,Monitor,Electronics,3,12000,36000,Delhi,Cash,2026-02
+ORD0468,4/11/2026,Customer_059,Mobile,Electronics,3,25000,75000,Delhi,Credit Card,2026-04
+ORD0469,6/10/2026,Customer_077,Tablet,Electronics,5,30000,150000,Gurugram,Debit Card,2026-06
+ORD0470,6/30/2026,Customer_059,Mouse,Accessories,3,800,2400,Ghaziabad,Cash,2026-06
+ORD0471,2/13/2026,Customer_087,Printer,Office Equipment,5,15000,75000,Faridabad,Credit Card,2026-02
+ORD0472,6/6/2026,Customer_015,Mouse,Accessories,2,800,1600,Faridabad,Credit Card,2026-06
+ORD0473,7/18/2026,Customer_054,Keyboard,Accessories,5,1500,7500,Ghaziabad,Cash,2026-07
+ORD0474,4/6/2026,Customer_063,Headphones,Accessories,4,2000,8000,Meerut,Cash,2026-04
+ORD0475,5/28/2026,Customer_018,Keyboard,Accessories,4,1500,6000,Faridabad,Credit Card,2026-05
+ORD0476,1/28/2026,Customer_046,Tablet,Electronics,5,30000,150000,Delhi,Debit Card,2026-01
+ORD0477,7/16/2026,Customer_072,Keyboard,Accessories,2,1500,3000,Ghaziabad,Debit Card,2026-07
+ORD0478,8/1/2026,Customer_091,Headphones,Accessories,4,2000,8000,Gurugram,Debit Card,2026-08
+ORD0479,1/16/2026,Customer_098,Keyboard,Accessories,1,1500,1500,Faridabad,Credit Card,2026-01
+ORD0480,4/26/2026,Customer_069,Laptop,Electronics,3,55000,165000,Noida,Cash,2026-04
+ORD0481,9/11/2026,Customer_071,Tablet,Electronics,5,30000,150000,Ghaziabad,UPI,2026-09
+ORD0482,7/7/2026,Customer_070,Mouse,Accessories,3,800,2400,Delhi,Debit Card,2026-07
+ORD0483,2/22/2026,Customer_095,Monitor,Electronics,4,12000,48000,Meerut,Cash,2026-02
+ORD0484,8/19/2026,Customer_034,Printer,Office Equipment,1,15000,15000,Noida,UPI,2026-08
+ORD0485,5/2/2026,Customer_027,Tablet,Electronics,1,30000,30000,Meerut,Credit Card,2026-05
+ORD0486,3/13/2026,Customer_027,Headphones,Accessories,2,2000,4000,Faridabad,UPI,2026-03
+ORD0487,5/24/2026,Customer_077,Mobile,Electronics,5,25000,125000,Ghaziabad,Cash,2026-05
+ORD0488,5/29/2026,Customer_074,Mobile,Electronics,3,25000,75000,Noida,UPI,2026-05
+ORD0489,1/31/2026,Customer_036,Keyboard,Accessories,4,1500,6000,Meerut,Cash,2026-01
+ORD0490,3/16/2026,Customer_092,Keyboard,Accessories,2,1500,3000,Noida,Cash,2026-03
+ORD0491,3/14/2026,Customer_074,Headphones,Accessories,4,2000,8000,Meerut,Credit Card,2026-03
+ORD0492,8/20/2026,Customer_010,Headphones,Accessories,4,2000,8000,Meerut,UPI,2026-08
+ORD0493,5/23/2026,Customer_089,Headphones,Accessories,5,2000,10000,Noida,Debit Card,2026-05
+ORD0494,1/2/2026,Customer_100,Tablet,Electronics,3,30000,90000,Meerut,UPI,2026-01
+ORD0495,2/2/2026,Customer_069,Tablet,Electronics,3,30000,90000,Gurugram,Cash,2026-02
+ORD0496,9/11/2026,Customer_035,Headphones,Accessories,2,2000,4000,Noida,Credit Card,2026-09
+ORD0497,3/8/2026,Customer_073,Mobile,Electronics,5,25000,125000,Gurugram,Credit Card,2026-03
+ORD0498,2/20/2026,Customer_081,Laptop,Electronics,1,55000,55000,Gurugram,UPI,2026-02
+ORD0499,8/14/2026,Customer_059,Mouse,Accessories,2,800,1600,Delhi,Debit Card,2026-08
+ORD0500,6/4/2026,Customer_021,Monitor,Electronics,2,12000,24000,Noida,UPI,2026-06
+ORD0501,2/12/2026,Customer_048,Mobile,Electronics,3,25000,75000,Meerut,Cash,2026-02
+ORD0502,6/6/2026,Customer_093,Laptop,Electronics,4,55000,220000,Meerut,Cash,2026-06
+ORD0503,2/18/2026,Customer_001,Headphones,Accessories,1,2000,2000,Faridabad,Debit Card,2026-02
+ORD0504,4/26/2026,Customer_067,Mouse,Accessories,2,800,1600,Meerut,Debit Card,2026-04
+ORD0505,6/25/2026,Customer_016,Laptop,Electronics,1,55000,55000,Gurugram,Cash,2026-06
+ORD0506,4/28/2026,Customer_050,Tablet,Electronics,1,30000,30000,Delhi,UPI,2026-04
+ORD0507,7/8/2026,Customer_039,Mouse,Accessories,3,800,2400,Faridabad,Debit Card,2026-07
+ORD0508,2/5/2026,Customer_068,Keyboard,Accessories,2,1500,3000,Ghaziabad,UPI,2026-02
+ORD0509,6/29/2026,Customer_093,Keyboard,Accessories,4,1500,6000,Faridabad,Cash,2026-06
+ORD0510,8/15/2026,Customer_028,Headphones,Accessories,5,2000,10000,Delhi,UPI,2026-08
+ORD0511,7/16/2026,Customer_045,Keyboard,Accessories,1,1500,1500,Gurugram,Credit Card,2026-07
+ORD0512,5/22/2026,Customer_083,Keyboard,Accessories,2,1500,3000,Delhi,Cash,2026-05
+ORD0513,6/4/2026,Customer_027,Printer,Office Equipment,1,15000,15000,Ghaziabad,Cash,2026-06
+ORD0514,1/28/2026,Customer_031,Headphones,Accessories,3,2000,6000,Gurugram,Debit Card,2026-01
+ORD0515,9/13/2026,Customer_082,Mouse,Accessories,2,800,1600,Ghaziabad,UPI,2026-09
+ORD0516,6/12/2026,Customer_017,Laptop,Electronics,3,55000,165000,Gurugram,Debit Card,2026-06
+ORD0517,3/30/2026,Customer_098,Mobile,Electronics,5,25000,125000,Gurugram,UPI,2026-03
+ORD0518,2/4/2026,Customer_002,Laptop,Electronics,5,55000,275000,Noida,Cash,2026-02
+ORD0519,7/23/2026,Customer_065,Laptop,Electronics,1,55000,55000,Noida,Debit Card,2026-07
+ORD0520,2/12/2026,Customer_082,Headphones,Accessories,4,2000,8000,Ghaziabad,Cash,2026-02
+ORD0521,6/8/2026,Customer_011,Printer,Office Equipment,1,15000,15000,Ghaziabad,Cash,2026-06
+ORD0522,6/17/2026,Customer_051,Keyboard,Accessories,5,1500,7500,Ghaziabad,UPI,2026-06
+ORD0523,5/3/2026,Customer_008,Printer,Office Equipment,4,15000,60000,Faridabad,UPI,2026-05
+ORD0524,8/21/2026,Customer_079,Headphones,Accessories,1,2000,2000,Ghaziabad,UPI,2026-08
+ORD0525,3/3/2026,Customer_002,Printer,Office Equipment,2,15000,30000,Meerut,Cash,2026-03
+ORD0526,9/12/2026,Customer_045,Laptop,Electronics,2,55000,110000,Ghaziabad,Credit Card,2026-09
+ORD0527,3/6/2026,Customer_096,Keyboard,Accessories,3,1500,4500,Noida,UPI,2026-03
+ORD0528,8/8/2026,Customer_035,Laptop,Electronics,3,55000,165000,Ghaziabad,UPI,2026-08
+ORD0529,2/9/2026,Customer_064,Printer,Office Equipment,5,15000,75000,Gurugram,Credit Card,2026-02
+ORD0530,3/27/2026,Customer_048,Laptop,Electronics,4,55000,220000,Faridabad,Credit Card,2026-03
+ORD0531,3/1/2026,Customer_030,Mouse,Accessories,5,800,4000,Meerut,UPI,2026-03
+ORD0532,5/6/2026,Customer_006,Laptop,Electronics,1,55000,55000,Gurugram,Credit Card,2026-05
+ORD0533,4/2/2026,Customer_005,Headphones,Accessories,2,2000,4000,Ghaziabad,Debit Card,2026-04
+ORD0534,5/8/2026,Customer_054,Monitor,Electronics,3,12000,36000,Meerut,Credit Card,2026-05
+ORD0535,7/10/2026,Customer_016,Printer,Office Equipment,1,15000,15000,Ghaziabad,UPI,2026-07
+ORD0536,9/22/2026,Customer_006,Keyboard,Accessories,2,1500,3000,Gurugram,UPI,2026-09
+ORD0537,6/9/2026,Customer_042,Tablet,Electronics,3,30000,90000,Delhi,Debit Card,2026-06
+ORD0538,4/13/2026,Customer_038,Laptop,Electronics,3,55000,165000,Ghaziabad,Credit Card,2026-04
+ORD0539,7/8/2026,Customer_076,Monitor,Electronics,4,12000,48000,Gurugram,Cash,2026-07
+ORD0540,1/4/2026,Customer_053,Monitor,Electronics,2,12000,24000,Delhi,Cash,2026-01
+ORD0541,6/21/2026,Customer_001,Mobile,Electronics,1,25000,25000,Meerut,Debit Card,2026-06
+ORD0542,4/16/2026,Customer_068,Printer,Office Equipment,1,15000,15000,Faridabad,Debit Card,2026-04
+ORD0543,3/14/2026,Customer_092,Tablet,Electronics,1,30000,30000,Noida,UPI,2026-03
+ORD0544,9/24/2026,Customer_053,Laptop,Electronics,2,55000,110000,Meerut,Credit Card,2026-09
+ORD0545,2/18/2026,Customer_065,Tablet,Electronics,1,30000,30000,Faridabad,Debit Card,2026-02
+ORD0546,2/1/2026,Customer_056,Mouse,Accessories,5,800,4000,Meerut,Cash,2026-02
+ORD0547,5/14/2026,Customer_041,Monitor,Electronics,3,12000,36000,Gurugram,Credit Card,2026-05
+ORD0548,5/20/2026,Customer_030,Mobile,Electronics,4,25000,100000,Delhi,Cash,2026-05
+ORD0549,2/25/2026,Customer_020,Keyboard,Accessories,5,1500,7500,Delhi,Cash,2026-02
+ORD0550,6/10/2026,Customer_053,Tablet,Electronics,4,30000,120000,Delhi,Credit Card,2026-06
+ORD0551,6/7/2026,Customer_060,Monitor,Electronics,4,12000,48000,Noida,UPI,2026-06
+ORD0552,6/5/2026,Customer_091,Mouse,Accessories,2,800,1600,Meerut,UPI,2026-06
+ORD0553,3/17/2026,Customer_012,Monitor,Electronics,3,12000,36000,Meerut,Cash,2026-03
+ORD0554,9/20/2026,Customer_007,Mobile,Electronics,4,25000,100000,Meerut,Credit Card,2026-09
+ORD0555,1/16/2026,Customer_052,Printer,Office Equipment,2,15000,30000,Gurugram,Cash,2026-01
+ORD0556,2/22/2026,Customer_018,Mouse,Accessories,4,800,3200,Delhi,UPI,2026-02
+ORD0557,3/8/2026,Customer_026,Laptop,Electronics,2,55000,110000,Gurugram,Credit Card,2026-03
+ORD0558,5/13/2026,Customer_010,Mouse,Accessories,5,800,4000,Delhi,UPI,2026-05
+ORD0559,3/7/2026,Customer_012,Monitor,Electronics,4,12000,48000,Noida,UPI,2026-03
+ORD0560,1/26/2026,Customer_022,Laptop,Electronics,4,55000,220000,Ghaziabad,Debit Card,2026-01
+ORD0561,1/16/2026,Customer_049,Headphones,Accessories,4,2000,8000,Meerut,Debit Card,2026-01
+ORD0562,4/20/2026,Customer_024,Keyboard,Accessories,3,1500,4500,Noida,Credit Card,2026-04
+ORD0563,1/18/2026,Customer_079,Tablet,Electronics,2,30000,60000,Ghaziabad,Cash,2026-01
+ORD0564,7/30/2026,Customer_071,Printer,Office Equipment,4,15000,60000,Gurugram,UPI,2026-07
+ORD0565,7/16/2026,Customer_018,Mouse,Accessories,3,800,2400,Gurugram,Cash,2026-07
+ORD0566,1/10/2026,Customer_049,Monitor,Electronics,5,12000,60000,Meerut,Credit Card,2026-01
+ORD0567,9/6/2026,Customer_045,Tablet,Electronics,5,30000,150000,Ghaziabad,Credit Card,2026-09
+ORD0568,4/3/2026,Customer_004,Headphones,Accessories,3,2000,6000,Noida,Cash,2026-04
+ORD0569,1/30/2026,Customer_061,Laptop,Electronics,3,55000,165000,Ghaziabad,Credit Card,2026-01
+ORD0570,2/21/2026,Customer_032,Monitor,Electronics,2,12000,24000,Meerut,Cash,2026-02
+ORD0571,1/29/2026,Customer_098,Printer,Office Equipment,5,15000,75000,Faridabad,Debit Card,2026-01
+ORD0572,4/1/2026,Customer_031,Mobile,Electronics,2,25000,50000,Ghaziabad,Credit Card,2026-04
+ORD0573,1/15/2026,Customer_091,Mobile,Electronics,5,25000,125000,Meerut,Credit Card,2026-01
+ORD0574,4/7/2026,Customer_064,Keyboard,Accessories,5,1500,7500,Ghaziabad,Credit Card,2026-04
+ORD0575,1/20/2026,Customer_012,Keyboard,Accessories,4,1500,6000,Delhi,Cash,2026-01
+ORD0576,9/27/2026,Customer_062,Monitor,Electronics,1,12000,12000,Delhi,Credit Card,2026-09
+ORD0577,6/24/2026,Customer_092,Monitor,Electronics,2,12000,24000,Faridabad,Credit Card,2026-06
+ORD0578,3/17/2026,Customer_076,Laptop,Electronics,1,55000,55000,Meerut,Cash,2026-03
+ORD0579,7/6/2026,Customer_010,Mouse,Accessories,5,800,4000,Noida,Debit Card,2026-07
+ORD0580,6/4/2026,Customer_042,Mouse,Accessories,3,800,2400,Faridabad,Cash,2026-06
+ORD0581,6/12/2026,Customer_023,Headphones,Accessories,4,2000,8000,Meerut,Credit Card,2026-06
+ORD0582,3/31/2026,Customer_049,Monitor,Electronics,5,12000,60000,Noida,Credit Card,2026-03
+ORD0583,1/1/2026,Customer_090,Keyboard,Accessories,2,1500,3000,Ghaziabad,Debit Card,2026-01
+ORD0584,6/12/2026,Customer_079,Laptop,Electronics,2,55000,110000,Faridabad,UPI,2026-06
+ORD0585,6/19/2026,Customer_096,Tablet,Electronics,2,30000,60000,Delhi,Cash,2026-06
+ORD0586,3/27/2026,Customer_082,Mobile,Electronics,3,25000,75000,Delhi,Credit Card,2026-03
+ORD0587,5/16/2026,Customer_027,Tablet,Electronics,1,30000,30000,Faridabad,UPI,2026-05
+ORD0588,2/25/2026,Customer_093,Mobile,Electronics,3,25000,75000,Delhi,UPI,2026-02
+ORD0589,8/3/2026,Customer_022,Headphones,Accessories,4,2000,8000,Gurugram,Debit Card,2026-08
+ORD0590,7/12/2026,Customer_013,Headphones,Accessories,3,2000,6000,Gurugram,Cash,2026-07
+ORD0591,2/7/2026,Customer_005,Keyboard,Accessories,4,1500,6000,Noida,UPI,2026-02
+ORD0592,2/23/2026,Customer_010,Mobile,Electronics,3,25000,75000,Noida,Cash,2026-02
+ORD0593,2/8/2026,Customer_071,Headphones,Accessories,2,2000,4000,Delhi,Credit Card,2026-02
+ORD0594,8/9/2026,Customer_084,Tablet,Electronics,1,30000,30000,Faridabad,Debit Card,2026-08
+ORD0595,2/21/2026,Customer_043,Keyboard,Accessories,1,1500,1500,Faridabad,Cash,2026-02
+ORD0596,5/16/2026,Customer_085,Headphones,Accessories,5,2000,10000,Noida,Credit Card,2026-05
+ORD0597,1/26/2026,Customer_051,Monitor,Electronics,1,12000,12000,Ghaziabad,Debit Card,2026-01
+ORD0598,7/4/2026,Customer_001,Keyboard,Accessories,1,1500,1500,Gurugram,UPI,2026-07
+ORD0599,9/3/2026,Customer_026,Printer,Office Equipment,5,15000,75000,Delhi,UPI,2026-09
+ORD0600,5/30/2026,Customer_011,Monitor,Electronics,2,12000,24000,Gurugram,UPI,2026-05
+ORD0601,8/30/2026,Customer_063,Printer,Office Equipment,4,15000,60000,Meerut,Credit Card,2026-08
+ORD0602,7/18/2026,Customer_024,Mouse,Accessories,5,800,4000,Noida,Debit Card,2026-07
+ORD0603,8/17/2026,Customer_006,Mobile,Electronics,2,25000,50000,Noida,Debit Card,2026-08
+ORD0604,4/26/2026,Customer_035,Tablet,Electronics,3,30000,90000,Ghaziabad,UPI,2026-04
+ORD0605,2/13/2026,Customer_086,Keyboard,Accessories,1,1500,1500,Noida,Debit Card,2026-02
+ORD0606,2/1/2026,Customer_050,Monitor,Electronics,5,12000,60000,Ghaziabad,Debit Card,2026-02
+ORD0607,5/1/2026,Customer_061,Tablet,Electronics,5,30000,150000,Noida,UPI,2026-05
+ORD0608,9/15/2026,Customer_074,Headphones,Accessories,1,2000,2000,Ghaziabad,Cash,2026-09
+ORD0609,3/30/2026,Customer_022,Mouse,Accessories,4,800,3200,Faridabad,Cash,2026-03
+ORD0610,8/5/2026,Customer_011,Keyboard,Accessories,1,1500,1500,Meerut,Debit Card,2026-08
+ORD0611,5/13/2026,Customer_041,Monitor,Electronics,2,12000,24000,Meerut,UPI,2026-05
+ORD0612,7/23/2026,Customer_071,Mouse,Accessories,4,800,3200,Noida,Credit Card,2026-07
+ORD0613,9/25/2026,Customer_054,Tablet,Electronics,1,30000,30000,Delhi,Debit Card,2026-09
+ORD0614,2/21/2026,Customer_014,Keyboard,Accessories,2,1500,3000,Ghaziabad,UPI,2026-02
+ORD0615,6/26/2026,Customer_053,Printer,Office Equipment,5,15000,75000,Noida,Debit Card,2026-06
+ORD0616,8/31/2026,Customer_005,Tablet,Electronics,5,30000,150000,Faridabad,Credit Card,2026-08
+ORD0617,7/25/2026,Customer_005,Headphones,Accessories,2,2000,4000,Gurugram,Credit Card,2026-07
+ORD0618,9/1/2026,Customer_035,Monitor,Electronics,1,12000,12000,Noida,UPI,2026-09
+ORD0619,6/9/2026,Customer_036,Mobile,Electronics,3,25000,75000,Gurugram,UPI,2026-06
+ORD0620,6/3/2026,Customer_096,Monitor,Electronics,2,12000,24000,Gurugram,Credit Card,2026-06
+ORD0621,2/15/2026,Customer_025,Printer,Office Equipment,4,15000,60000,Gurugram,Cash,2026-02
+ORD0622,9/22/2026,Customer_048,Headphones,Accessories,4,2000,8000,Delhi,Cash,2026-09
+ORD0623,9/17/2026,Customer_052,Mouse,Accessories,3,800,2400,Faridabad,UPI,2026-09
+ORD0624,4/13/2026,Customer_008,Keyboard,Accessories,2,1500,3000,Faridabad,UPI,2026-04
+ORD0625,7/4/2026,Customer_091,Tablet,Electronics,1,30000,30000,Faridabad,Credit Card,2026-07
+ORD0626,9/16/2026,Customer_051,Mobile,Electronics,4,25000,100000,Meerut,UPI,2026-09
+ORD0627,7/10/2026,Customer_063,Laptop,Electronics,2,55000,110000,Ghaziabad,Debit Card,2026-07
+ORD0628,6/29/2026,Customer_045,Keyboard,Accessories,4,1500,6000,Faridabad,Credit Card,2026-06
+ORD0629,1/15/2026,Customer_050,Mouse,Accessories,3,800,2400,Delhi,Cash,2026-01
+ORD0630,4/26/2026,Customer_087,Monitor,Electronics,2,12000,24000,Faridabad,Credit Card,2026-04
+ORD0631,1/11/2026,Customer_100,Headphones,Accessories,5,2000,10000,Meerut,UPI,2026-01
+ORD0632,3/30/2026,Customer_077,Tablet,Electronics,2,30000,60000,Delhi,Cash,2026-03
+ORD0633,6/6/2026,Customer_092,Printer,Office Equipment,5,15000,75000,Meerut,Credit Card,2026-06
+ORD0634,6/28/2026,Customer_059,Headphones,Accessories,4,2000,8000,Noida,Cash,2026-06
+ORD0635,9/24/2026,Customer_080,Tablet,Electronics,3,30000,90000,Gurugram,UPI,2026-09
+ORD0636,7/11/2026,Customer_072,Laptop,Electronics,5,55000,275000,Meerut,Credit Card,2026-07
+ORD0637,9/4/2026,Customer_009,Printer,Office Equipment,1,15000,15000,Noida,Credit Card,2026-09
+ORD0638,5/14/2026,Customer_084,Mobile,Electronics,3,25000,75000,Meerut,Credit Card,2026-05
+ORD0639,9/22/2026,Customer_098,Monitor,Electronics,2,12000,24000,Faridabad,UPI,2026-09
+ORD0640,3/13/2026,Customer_093,Headphones,Accessories,3,2000,6000,Delhi,Debit Card,2026-03
+ORD0641,8/3/2026,Customer_052,Printer,Office Equipment,3,15000,45000,Gurugram,UPI,2026-08
+ORD0642,4/24/2026,Customer_088,Monitor,Electronics,3,12000,36000,Ghaziabad,Debit Card,2026-04
+ORD0643,6/3/2026,Customer_022,Mobile,Electronics,5,25000,125000,Meerut,Cash,2026-06
+ORD0644,8/30/2026,Customer_017,Printer,Office Equipment,1,15000,15000,Meerut,Credit Card,2026-08
+ORD0645,2/15/2026,Customer_029,Keyboard,Accessories,3,1500,4500,Noida,Cash,2026-02
+ORD0646,6/19/2026,Customer_048,Printer,Office Equipment,4,15000,60000,Noida,Credit Card,2026-06
+ORD0647,8/29/2026,Customer_007,Tablet,Electronics,1,30000,30000,Meerut,UPI,2026-08
+ORD0648,9/14/2026,Customer_016,Tablet,Electronics,2,30000,60000,Meerut,Debit Card,2026-09
+ORD0649,1/28/2026,Customer_020,Printer,Office Equipment,4,15000,60000,Faridabad,Cash,2026-01
+ORD0650,8/23/2026,Customer_019,Mobile,Electronics,4,25000,100000,Noida,Cash,2026-08
+ORD0651,6/20/2026,Customer_081,Mouse,Accessories,4,800,3200,Faridabad,Credit Card,2026-06
+ORD0652,8/20/2026,Customer_036,Laptop,Electronics,1,55000,55000,Faridabad,Cash,2026-08
+ORD0653,2/15/2026,Customer_017,Keyboard,Accessories,4,1500,6000,Ghaziabad,Debit Card,2026-02
+ORD0654,8/8/2026,Customer_062,Headphones,Accessories,4,2000,8000,Gurugram,UPI,2026-08
+ORD0655,4/13/2026,Customer_094,Laptop,Electronics,5,55000,275000,Noida,UPI,2026-04
+ORD0656,4/8/2026,Customer_003,Mobile,Electronics,5,25000,125000,Meerut,UPI,2026-04
+ORD0657,6/26/2026,Customer_040,Monitor,Electronics,2,12000,24000,Faridabad,UPI,2026-06
+ORD0658,6/6/2026,Customer_022,Headphones,Accessories,5,2000,10000,Delhi,UPI,2026-06
+ORD0659,8/22/2026,Customer_094,Printer,Office Equipment,3,15000,45000,Ghaziabad,Credit Card,2026-08
+ORD0660,6/25/2026,Customer_063,Headphones,Accessories,2,2000,4000,Noida,Cash,2026-06
+ORD0661,1/10/2026,Customer_030,Keyboard,Accessories,4,1500,6000,Faridabad,Cash,2026-01
+ORD0662,9/16/2026,Customer_022,Monitor,Electronics,1,12000,12000,Delhi,Credit Card,2026-09
+ORD0663,5/11/2026,Customer_099,Laptop,Electronics,4,55000,220000,Ghaziabad,UPI,2026-05
+ORD0664,1/11/2026,Customer_007,Laptop,Electronics,1,55000,55000,Meerut,UPI,2026-01
+ORD0665,7/14/2026,Customer_016,Headphones,Accessories,4,2000,8000,Ghaziabad,Credit Card,2026-07
+ORD0666,4/16/2026,Customer_089,Tablet,Electronics,2,30000,60000,Meerut,UPI,2026-04
+ORD0667,2/21/2026,Customer_085,Printer,Office Equipment,4,15000,60000,Ghaziabad,Credit Card,2026-02
+ORD0668,2/23/2026,Customer_066,Keyboard,Accessories,4,1500,6000,Meerut,UPI,2026-02
+ORD0669,2/24/2026,Customer_064,Printer,Office Equipment,1,15000,15000,Faridabad,Cash,2026-02
+ORD0670,4/14/2026,Customer_046,Printer,Office Equipment,5,15000,75000,Meerut,Debit Card,2026-04
+ORD0671,1/21/2026,Customer_071,Printer,Office Equipment,2,15000,30000,Gurugram,Cash,2026-01
+ORD0672,5/1/2026,Customer_001,Tablet,Electronics,3,30000,90000,Delhi,UPI,2026-05
+ORD0673,9/10/2026,Customer_020,Mouse,Accessories,5,800,4000,Delhi,UPI,2026-09
+ORD0674,4/29/2026,Customer_059,Mouse,Accessories,3,800,2400,Noida,Credit Card,2026-04
+ORD0675,2/21/2026,Customer_023,Tablet,Electronics,1,30000,30000,Delhi,Credit Card,2026-02
+ORD0676,8/7/2026,Customer_095,Mobile,Electronics,3,25000,75000,Delhi,UPI,2026-08
+ORD0677,3/12/2026,Customer_085,Laptop,Electronics,1,55000,55000,Meerut,Cash,2026-03
+ORD0678,8/13/2026,Customer_080,Mobile,Electronics,3,25000,75000,Noida,UPI,2026-08
+ORD0679,4/4/2026,Customer_015,Mobile,Electronics,3,25000,75000,Gurugram,Debit Card,2026-04
+ORD0680,7/17/2026,Customer_089,Tablet,Electronics,3,30000,90000,Gurugram,Debit Card,2026-07
+ORD0681,3/9/2026,Customer_090,Keyboard,Accessories,1,1500,1500,Meerut,UPI,2026-03
+ORD0682,8/2/2026,Customer_076,Keyboard,Accessories,1,1500,1500,Gurugram,Debit Card,2026-08
+ORD0683,7/14/2026,Customer_100,Keyboard,Accessories,5,1500,7500,Noida,UPI,2026-07
+ORD0684,9/7/2026,Customer_015,Keyboard,Accessories,4,1500,6000,Gurugram,Debit Card,2026-09
+ORD0685,5/14/2026,Customer_084,Laptop,Electronics,1,55000,55000,Noida,UPI,2026-05
+ORD0686,9/23/2026,Customer_067,Monitor,Electronics,3,12000,36000,Meerut,UPI,2026-09
+ORD0687,9/4/2026,Customer_045,Headphones,Accessories,2,2000,4000,Meerut,Debit Card,2026-09
+ORD0688,1/28/2026,Customer_002,Keyboard,Accessories,5,1500,7500,Meerut,Cash,2026-01
+ORD0689,3/26/2026,Customer_010,Tablet,Electronics,4,30000,120000,Gurugram,Credit Card,2026-03
+ORD0690,5/23/2026,Customer_007,Monitor,Electronics,3,12000,36000,Ghaziabad,Cash,2026-05
+ORD0691,5/1/2026,Customer_011,Headphones,Accessories,4,2000,8000,Gurugram,Debit Card,2026-05
+ORD0692,9/13/2026,Customer_058,Tablet,Electronics,1,30000,30000,Noida,UPI,2026-09
+ORD0693,2/22/2026,Customer_052,Tablet,Electronics,1,30000,30000,Gurugram,UPI,2026-02
+ORD0694,6/5/2026,Customer_066,Laptop,Electronics,1,55000,55000,Ghaziabad,Cash,2026-06
+ORD0695,7/6/2026,Customer_007,Tablet,Electronics,3,30000,90000,Faridabad,Debit Card,2026-07
+ORD0696,8/31/2026,Customer_092,Mobile,Electronics,5,25000,125000,Meerut,Credit Card,2026-08
+ORD0697,2/19/2026,Customer_098,Tablet,Electronics,1,30000,30000,Meerut,Cash,2026-02
+ORD0698,7/1/2026,Customer_082,Laptop,Electronics,3,55000,165000,Noida,Credit Card,2026-07
+ORD0699,3/26/2026,Customer_064,Mouse,Accessories,1,800,800,Faridabad,Debit Card,2026-03
+ORD0700,4/11/2026,Customer_025,Mouse,Accessories,3,800,2400,Delhi,Debit Card,2026-04
+ORD0701,4/8/2026,Customer_092,Monitor,Electronics,4,12000,48000,Noida,UPI,2026-04
+ORD0702,3/5/2026,Customer_099,Headphones,Accessories,1,2000,2000,Gurugram,Debit Card,2026-03
+ORD0703,1/3/2026,Customer_068,Keyboard,Accessories,4,1500,6000,Meerut,UPI,2026-01
+ORD0704,9/5/2026,Customer_066,Headphones,Accessories,5,2000,10000,Faridabad,Cash,2026-09
+ORD0705,7/18/2026,Customer_085,Keyboard,Accessories,1,1500,1500,Ghaziabad,Credit Card,2026-07
+ORD0706,5/8/2026,Customer_036,Headphones,Accessories,4,2000,8000,Gurugram,Credit Card,2026-05
+ORD0707,3/10/2026,Customer_018,Printer,Office Equipment,4,15000,60000,Gurugram,Credit Card,2026-03
+ORD0708,4/22/2026,Customer_026,Mobile,Electronics,5,25000,125000,Faridabad,Credit Card,2026-04
+ORD0709,4/2/2026,Customer_065,Mobile,Electronics,2,25000,50000,Ghaziabad,Credit Card,2026-04
+ORD0710,9/3/2026,Customer_075,Mouse,Accessories,3,800,2400,Ghaziabad,Debit Card,2026-09
+ORD0711,1/7/2026,Customer_067,Printer,Office Equipment,4,15000,60000,Delhi,UPI,2026-01
+ORD0712,1/28/2026,Customer_086,Headphones,Accessories,2,2000,4000,Delhi,Cash,2026-01
+ORD0713,5/27/2026,Customer_088,Printer,Office Equipment,2,15000,30000,Noida,Cash,2026-05
+ORD0714,4/15/2026,Customer_097,Laptop,Electronics,3,55000,165000,Ghaziabad,UPI,2026-04
+ORD0715,2/22/2026,Customer_079,Mobile,Electronics,4,25000,100000,Meerut,Cash,2026-02
+ORD0716,9/19/2026,Customer_090,Headphones,Accessories,2,2000,4000,Noida,UPI,2026-09
+ORD0717,8/2/2026,Customer_088,Headphones,Accessories,4,2000,8000,Noida,UPI,2026-08
+ORD0718,4/14/2026,Customer_080,Laptop,Electronics,3,55000,165000,Gurugram,Cash,2026-04
+ORD0719,4/11/2026,Customer_100,Mobile,Electronics,5,25000,125000,Meerut,Cash,2026-04
+ORD0720,4/1/2026,Customer_088,Printer,Office Equipment,4,15000,60000,Delhi,Cash,2026-04
+ORD0721,3/3/2026,Customer_049,Keyboard,Accessories,5,1500,7500,Delhi,Debit Card,2026-03
+ORD0722,5/16/2026,Customer_017,Printer,Office Equipment,5,15000,75000,Faridabad,Credit Card,2026-05
+ORD0723,8/27/2026,Customer_091,Laptop,Electronics,3,55000,165000,Faridabad,UPI,2026-08
+ORD0724,1/27/2026,Customer_100,Keyboard,Accessories,3,1500,4500,Meerut,Credit Card,2026-01
+ORD0725,7/3/2026,Customer_010,Tablet,Electronics,5,30000,150000,Meerut,Credit Card,2026-07
+ORD0726,9/24/2026,Customer_009,Monitor,Electronics,2,12000,24000,Ghaziabad,Cash,2026-09
+ORD0727,7/26/2026,Customer_012,Headphones,Accessories,5,2000,10000,Noida,Cash,2026-07
+ORD0728,6/19/2026,Customer_047,Monitor,Electronics,3,12000,36000,Noida,Cash,2026-06
+ORD0729,1/5/2026,Customer_015,Tablet,Electronics,5,30000,150000,Meerut,Credit Card,2026-01
+ORD0730,5/5/2026,Customer_006,Tablet,Electronics,2,30000,60000,Meerut,Credit Card,2026-05
+ORD0731,7/17/2026,Customer_033,Headphones,Accessories,1,2000,2000,Ghaziabad,Credit Card,2026-07
+ORD0732,7/11/2026,Customer_066,Laptop,Electronics,5,55000,275000,Ghaziabad,Debit Card,2026-07
+ORD0733,6/1/2026,Customer_084,Tablet,Electronics,1,30000,30000,Faridabad,Credit Card,2026-06
+ORD0734,3/27/2026,Customer_099,Mouse,Accessories,1,800,800,Ghaziabad,UPI,2026-03
+ORD0735,4/20/2026,Customer_088,Mouse,Accessories,2,800,1600,Gurugram,UPI,2026-04
+ORD0736,8/11/2026,Customer_083,Monitor,Electronics,5,12000,60000,Delhi,Cash,2026-08
+ORD0737,6/19/2026,Customer_005,Laptop,Electronics,4,55000,220000,Delhi,UPI,2026-06
+ORD0738,5/9/2026,Customer_072,Laptop,Electronics,2,55000,110000,Delhi,Cash,2026-05
+ORD0739,7/18/2026,Customer_058,Printer,Office Equipment,4,15000,60000,Meerut,Debit Card,2026-07
+ORD0740,1/9/2026,Customer_050,Headphones,Accessories,3,2000,6000,Meerut,UPI,2026-01
+ORD0741,2/2/2026,Customer_097,Laptop,Electronics,5,55000,275000,Meerut,UPI,2026-02
+ORD0742,9/15/2026,Customer_014,Mouse,Accessories,3,800,2400,Noida,Credit Card,2026-09
+ORD0743,8/13/2026,Customer_049,Mouse,Accessories,3,800,2400,Gurugram,UPI,2026-08
+ORD0744,4/23/2026,Customer_018,Tablet,Electronics,2,30000,60000,Meerut,Debit Card,2026-04
+ORD0745,6/2/2026,Customer_087,Printer,Office Equipment,2,15000,30000,Meerut,Credit Card,2026-06
+ORD0746,3/14/2026,Customer_016,Laptop,Electronics,5,55000,275000,Delhi,UPI,2026-03
+ORD0747,2/13/2026,Customer_040,Headphones,Accessories,5,2000,10000,Faridabad,Credit Card,2026-02
+ORD0748,9/20/2026,Customer_019,Monitor,Electronics,4,12000,48000,Faridabad,Cash,2026-09
+ORD0749,5/10/2026,Customer_025,Monitor,Electronics,5,12000,60000,Delhi,Cash,2026-05
+ORD0750,8/25/2026,Customer_083,Laptop,Electronics,5,55000,275000,Ghaziabad,UPI,2026-08
+ORD0751,5/9/2026,Customer_013,Printer,Office Equipment,1,15000,15000,Faridabad,Debit Card,2026-05
+ORD0752,3/7/2026,Customer_086,Mobile,Electronics,3,25000,75000,Meerut,Cash,2026-03
+ORD0753,2/5/2026,Customer_025,Mouse,Accessories,3,800,2400,Noida,Debit Card,2026-02
+ORD0754,6/6/2026,Customer_089,Tablet,Electronics,3,30000,90000,Ghaziabad,Cash,2026-06
+ORD0755,8/8/2026,Customer_022,Mobile,Electronics,3,25000,75000,Delhi,Credit Card,2026-08
+ORD0756,8/12/2026,Customer_036,Monitor,Electronics,2,12000,24000,Noida,Cash,2026-08
+ORD0757,8/25/2026,Customer_058,Mobile,Electronics,4,25000,100000,Noida,Credit Card,2026-08
+ORD0758,2/25/2026,Customer_023,Tablet,Electronics,5,30000,150000,Meerut,UPI,2026-02
+ORD0759,4/11/2026,Customer_034,Printer,Office Equipment,2,15000,30000,Meerut,UPI,2026-04
+ORD0760,9/17/2026,Customer_081,Mouse,Accessories,1,800,800,Delhi,Debit Card,2026-09
+ORD0761,5/14/2026,Customer_070,Monitor,Electronics,1,12000,12000,Ghaziabad,Debit Card,2026-05
+ORD0762,7/20/2026,Customer_029,Keyboard,Accessories,3,1500,4500,Ghaziabad,Credit Card,2026-07
+ORD0763,9/14/2026,Customer_066,Keyboard,Accessories,4,1500,6000,Delhi,Debit Card,2026-09
+ORD0764,1/6/2026,Customer_085,Mobile,Electronics,5,25000,125000,Faridabad,Cash,2026-01
+ORD0765,3/23/2026,Customer_023,Keyboard,Accessories,4,1500,6000,Ghaziabad,Cash,2026-03
+ORD0766,1/21/2026,Customer_029,Tablet,Electronics,3,30000,90000,Gurugram,Cash,2026-01
+ORD0767,7/9/2026,Customer_030,Mouse,Accessories,3,800,2400,Delhi,Cash,2026-07
+ORD0768,8/29/2026,Customer_059,Mobile,Electronics,4,25000,100000,Delhi,UPI,2026-08
+ORD0769,9/24/2026,Customer_082,Mobile,Electronics,1,25000,25000,Noida,Credit Card,2026-09
+ORD0770,7/13/2026,Customer_047,Keyboard,Accessories,4,1500,6000,Ghaziabad,UPI,2026-07
+ORD0771,4/25/2026,Customer_067,Printer,Office Equipment,4,15000,60000,Gurugram,Credit Card,2026-04
+ORD0772,9/4/2026,Customer_078,Mobile,Electronics,4,25000,100000,Delhi,Cash,2026-09
+ORD0773,4/28/2026,Customer_010,Tablet,Electronics,2,30000,60000,Ghaziabad,Credit Card,2026-04
+ORD0774,4/6/2026,Customer_021,Monitor,Electronics,2,12000,24000,Noida,UPI,2026-04
+ORD0775,6/19/2026,Customer_093,Monitor,Electronics,4,12000,48000,Delhi,Debit Card,2026-06
+ORD0776,4/18/2026,Customer_076,Tablet,Electronics,4,30000,120000,Faridabad,Debit Card,2026-04
+ORD0777,1/23/2026,Customer_017,Laptop,Electronics,2,55000,110000,Ghaziabad,Cash,2026-01
+ORD0778,1/21/2026,Customer_074,Keyboard,Accessories,5,1500,7500,Faridabad,UPI,2026-01
+ORD0779,4/3/2026,Customer_067,Keyboard,Accessories,3,1500,4500,Gurugram,UPI,2026-04
+ORD0780,4/21/2026,Customer_058,Printer,Office Equipment,1,15000,15000,Ghaziabad,Debit Card,2026-04
+ORD0781,4/23/2026,Customer_053,Tablet,Electronics,2,30000,60000,Ghaziabad,Cash,2026-04
+ORD0782,9/19/2026,Customer_034,Keyboard,Accessories,5,1500,7500,Faridabad,Credit Card,2026-09
+ORD0783,2/5/2026,Customer_030,Tablet,Electronics,5,30000,150000,Gurugram,Debit Card,2026-02
+ORD0784,1/9/2026,Customer_026,Keyboard,Accessories,1,1500,1500,Ghaziabad,Debit Card,2026-01
+ORD0785,2/19/2026,Customer_023,Keyboard,Accessories,5,1500,7500,Gurugram,UPI,2026-02
+ORD0786,9/4/2026,Customer_085,Mouse,Accessories,1,800,800,Faridabad,UPI,2026-09
+ORD0787,8/4/2026,Customer_048,Headphones,Accessories,5,2000,10000,Delhi,Debit Card,2026-08
+ORD0788,7/15/2026,Customer_045,Monitor,Electronics,4,12000,48000,Ghaziabad,UPI,2026-07
+ORD0789,5/11/2026,Customer_062,Headphones,Accessories,2,2000,4000,Faridabad,UPI,2026-05
+ORD0790,7/29/2026,Customer_033,Printer,Office Equipment,5,15000,75000,Faridabad,UPI,2026-07
+ORD0791,9/25/2026,Customer_016,Laptop,Electronics,5,55000,275000,Ghaziabad,UPI,2026-09
+ORD0792,6/11/2026,Customer_053,Headphones,Accessories,2,2000,4000,Noida,UPI,2026-06
+ORD0793,5/10/2026,Customer_034,Keyboard,Accessories,4,1500,6000,Ghaziabad,Debit Card,2026-05
+ORD0794,5/22/2026,Customer_088,Mobile,Electronics,5,25000,125000,Gurugram,Cash,2026-05
+ORD0795,9/5/2026,Customer_023,Headphones,Accessories,5,2000,10000,Noida,Debit Card,2026-09
+ORD0796,6/26/2026,Customer_100,Printer,Office Equipment,3,15000,45000,Meerut,Debit Card,2026-06
+ORD0797,4/28/2026,Customer_058,Keyboard,Accessories,1,1500,1500,Meerut,Cash,2026-04
+ORD0798,9/18/2026,Customer_052,Mouse,Accessories,2,800,1600,Noida,UPI,2026-09
+ORD0799,1/3/2026,Customer_012,Keyboard,Accessories,4,1500,6000,Faridabad,Debit Card,2026-01
+ORD0800,2/2/2026,Customer_034,Headphones,Accessories,1,2000,2000,Faridabad,Credit Card,2026-02
+ORD0801,1/20/2026,Customer_093,Mouse,Accessories,5,800,4000,Gurugram,Debit Card,2026-01
+ORD0802,1/30/2026,Customer_100,Printer,Office Equipment,5,15000,75000,Faridabad,Debit Card,2026-01
+ORD0803,4/14/2026,Customer_085,Tablet,Electronics,1,30000,30000,Ghaziabad,Credit Card,2026-04
+ORD0804,9/19/2026,Customer_067,Monitor,Electronics,1,12000,12000,Meerut,Cash,2026-09
+ORD0805,7/4/2026,Customer_031,Keyboard,Accessories,1,1500,1500,Meerut,UPI,2026-07
+ORD0806,5/22/2026,Customer_100,Keyboard,Accessories,1,1500,1500,Gurugram,Credit Card,2026-05
+ORD0807,4/13/2026,Customer_067,Headphones,Accessories,4,2000,8000,Delhi,UPI,2026-04
+ORD0808,5/26/2026,Customer_093,Mouse,Accessories,5,800,4000,Ghaziabad,Credit Card,2026-05
+ORD0809,4/26/2026,Customer_078,Mobile,Electronics,3,25000,75000,Faridabad,Debit Card,2026-04
+ORD0810,1/3/2026,Customer_034,Headphones,Accessories,5,2000,10000,Faridabad,Debit Card,2026-01
+ORD0811,2/7/2026,Customer_065,Mouse,Accessories,5,800,4000,Noida,Credit Card,2026-02
+ORD0812,5/12/2026,Customer_069,Mouse,Accessories,5,800,4000,Ghaziabad,Credit Card,2026-05
+ORD0813,9/5/2026,Customer_099,Tablet,Electronics,4,30000,120000,Faridabad,Credit Card,2026-09
+ORD0814,1/15/2026,Customer_062,Tablet,Electronics,4,30000,120000,Delhi,Credit Card,2026-01
+ORD0815,4/23/2026,Customer_087,Mouse,Accessories,4,800,3200,Meerut,Cash,2026-04
+ORD0816,6/30/2026,Customer_067,Mobile,Electronics,4,25000,100000,Ghaziabad,UPI,2026-06
+ORD0817,5/28/2026,Customer_012,Printer,Office Equipment,2,15000,30000,Gurugram,Credit Card,2026-05
+ORD0818,4/2/2026,Customer_061,Mouse,Accessories,5,800,4000,Noida,Credit Card,2026-04
+ORD0819,5/18/2026,Customer_024,Monitor,Electronics,5,12000,60000,Meerut,Cash,2026-05
+ORD0820,5/1/2026,Customer_095,Tablet,Electronics,2,30000,60000,Faridabad,Credit Card,2026-05
+ORD0821,4/14/2026,Customer_032,Monitor,Electronics,2,12000,24000,Ghaziabad,Credit Card,2026-04
+ORD0822,3/3/2026,Customer_011,Keyboard,Accessories,1,1500,1500,Meerut,Debit Card,2026-03
+ORD0823,1/22/2026,Customer_062,Laptop,Electronics,5,55000,275000,Noida,Credit Card,2026-01
+ORD0824,5/21/2026,Customer_063,Tablet,Electronics,5,30000,150000,Faridabad,Credit Card,2026-05
+ORD0825,3/7/2026,Customer_007,Headphones,Accessories,2,2000,4000,Ghaziabad,Debit Card,2026-03
+ORD0826,1/17/2026,Customer_065,Tablet,Electronics,5,30000,150000,Noida,Debit Card,2026-01
+ORD0827,3/3/2026,Customer_090,Keyboard,Accessories,4,1500,6000,Ghaziabad,Debit Card,2026-03
+ORD0828,1/7/2026,Customer_087,Mobile,Electronics,1,25000,25000,Faridabad,Debit Card,2026-01
+ORD0829,7/5/2026,Customer_079,Mouse,Accessories,3,800,2400,Noida,Cash,2026-07
+ORD0830,5/18/2026,Customer_061,Printer,Office Equipment,2,15000,30000,Ghaziabad,Credit Card,2026-05
+ORD0831,9/13/2026,Customer_055,Mobile,Electronics,2,25000,50000,Faridabad,Debit Card,2026-09
+ORD0832,7/25/2026,Customer_036,Mobile,Electronics,3,25000,75000,Gurugram,Cash,2026-07
+ORD0833,4/28/2026,Customer_013,Keyboard,Accessories,5,1500,7500,Meerut,Credit Card,2026-04
+ORD0834,8/10/2026,Customer_049,Monitor,Electronics,5,12000,60000,Faridabad,Cash,2026-08
+ORD0835,1/5/2026,Customer_023,Keyboard,Accessories,4,1500,6000,Gurugram,Debit Card,2026-01
+ORD0836,6/11/2026,Customer_063,Keyboard,Accessories,5,1500,7500,Noida,Credit Card,2026-06
+ORD0837,2/20/2026,Customer_089,Laptop,Electronics,4,55000,220000,Faridabad,UPI,2026-02
+ORD0838,9/1/2026,Customer_081,Monitor,Electronics,3,12000,36000,Delhi,Debit Card,2026-09
+ORD0839,7/4/2026,Customer_047,Mobile,Electronics,3,25000,75000,Ghaziabad,Credit Card,2026-07
+ORD0840,7/30/2026,Customer_016,Mobile,Electronics,1,25000,25000,Noida,Cash,2026-07
+ORD0841,7/1/2026,Customer_042,Keyboard,Accessories,3,1500,4500,Meerut,Debit Card,2026-07
+ORD0842,7/15/2026,Customer_079,Tablet,Electronics,1,30000,30000,Noida,Debit Card,2026-07
+ORD0843,6/22/2026,Customer_054,Keyboard,Accessories,2,1500,3000,Meerut,Debit Card,2026-06
+ORD0844,3/24/2026,Customer_044,Mouse,Accessories,1,800,800,Faridabad,Credit Card,2026-03
+ORD0845,5/17/2026,Customer_078,Mobile,Electronics,3,25000,75000,Meerut,Debit Card,2026-05
+ORD0846,7/5/2026,Customer_096,Printer,Office Equipment,4,15000,60000,Ghaziabad,Debit Card,2026-07
+ORD0847,4/5/2026,Customer_003,Headphones,Accessories,2,2000,4000,Faridabad,Cash,2026-04
+ORD0848,4/18/2026,Customer_022,Printer,Office Equipment,1,15000,15000,Gurugram,UPI,2026-04
+ORD0849,8/31/2026,Customer_071,Mouse,Accessories,1,800,800,Delhi,UPI,2026-08
+ORD0850,2/12/2026,Customer_014,Headphones,Accessories,5,2000,10000,Noida,Cash,2026-02
+ORD0851,6/8/2026,Customer_030,Mouse,Accessories,4,800,3200,Faridabad,Credit Card,2026-06
+ORD0852,3/9/2026,Customer_068,Tablet,Electronics,2,30000,60000,Faridabad,UPI,2026-03
+ORD0853,6/16/2026,Customer_061,Laptop,Electronics,3,55000,165000,Gurugram,Credit Card,2026-06
+ORD0854,4/1/2026,Customer_076,Tablet,Electronics,2,30000,60000,Ghaziabad,Debit Card,2026-04
+ORD0855,6/8/2026,Customer_045,Headphones,Accessories,5,2000,10000,Gurugram,Cash,2026-06
+ORD0856,6/7/2026,Customer_047,Mouse,Accessories,4,800,3200,Gurugram,Credit Card,2026-06
+ORD0857,1/6/2026,Customer_001,Keyboard,Accessories,3,1500,4500,Ghaziabad,Cash,2026-01
+ORD0858,8/29/2026,Customer_069,Mobile,Electronics,3,25000,75000,Delhi,Debit Card,2026-08
+ORD0859,1/5/2026,Customer_099,Tablet,Electronics,3,30000,90000,Gurugram,Credit Card,2026-01
+ORD0860,7/11/2026,Customer_025,Monitor,Electronics,1,12000,12000,Gurugram,Debit Card,2026-07
+ORD0861,3/25/2026,Customer_092,Headphones,Accessories,2,2000,4000,Meerut,Debit Card,2026-03
+ORD0862,5/15/2026,Customer_011,Headphones,Accessories,2,2000,4000,Gurugram,Cash,2026-05
+ORD0863,9/30/2026,Customer_035,Printer,Office Equipment,3,15000,45000,Gurugram,Cash,2026-09
+ORD0864,3/11/2026,Customer_038,Mouse,Accessories,2,800,1600,Delhi,Debit Card,2026-03
+ORD0865,9/9/2026,Customer_025,Tablet,Electronics,3,30000,90000,Noida,UPI,2026-09
+ORD0866,1/12/2026,Customer_024,Keyboard,Accessories,1,1500,1500,Delhi,Credit Card,2026-01
+ORD0867,8/13/2026,Customer_094,Printer,Office Equipment,2,15000,30000,Delhi,Cash,2026-08
+ORD0868,1/8/2026,Customer_064,Mouse,Accessories,2,800,1600,Faridabad,Credit Card,2026-01
+ORD0869,9/13/2026,Customer_048,Headphones,Accessories,3,2000,6000,Gurugram,UPI,2026-09
+ORD0870,3/16/2026,Customer_008,Mobile,Electronics,1,25000,25000,Noida,Debit Card,2026-03
+ORD0871,8/29/2026,Customer_024,Mouse,Accessories,5,800,4000,Faridabad,Credit Card,2026-08
+ORD0872,3/4/2026,Customer_099,Headphones,Accessories,1,2000,2000,Meerut,Cash,2026-03
+ORD0873,5/7/2026,Customer_095,Headphones,Accessories,4,2000,8000,Delhi,Cash,2026-05
+ORD0874,9/24/2026,Customer_086,Tablet,Electronics,1,30000,30000,Faridabad,Debit Card,2026-09
+ORD0875,6/15/2026,Customer_021,Headphones,Accessories,3,2000,6000,Meerut,UPI,2026-06
+ORD0876,9/4/2026,Customer_082,Mouse,Accessories,3,800,2400,Noida,Cash,2026-09
+ORD0877,4/22/2026,Customer_015,Mobile,Electronics,1,25000,25000,Faridabad,Debit Card,2026-04
+ORD0878,3/27/2026,Customer_036,Mobile,Electronics,1,25000,25000,Ghaziabad,UPI,2026-03
+ORD0879,1/5/2026,Customer_006,Headphones,Accessories,2,2000,4000,Ghaziabad,Debit Card,2026-01
+ORD0880,2/15/2026,Customer_032,Keyboard,Accessories,3,1500,4500,Faridabad,Debit Card,2026-02
+ORD0881,6/23/2026,Customer_098,Mouse,Accessories,5,800,4000,Meerut,UPI,2026-06
+ORD0882,3/20/2026,Customer_090,Laptop,Electronics,3,55000,165000,Ghaziabad,UPI,2026-03
+ORD0883,4/30/2026,Customer_041,Keyboard,Accessories,4,1500,6000,Ghaziabad,Credit Card,2026-04
+ORD0884,1/11/2026,Customer_089,Tablet,Electronics,2,30000,60000,Gurugram,Credit Card,2026-01
+ORD0885,1/21/2026,Customer_063,Keyboard,Accessories,3,1500,4500,Meerut,Debit Card,2026-01
+ORD0886,9/8/2026,Customer_025,Printer,Office Equipment,5,15000,75000,Ghaziabad,Cash,2026-09
+ORD0887,8/28/2026,Customer_036,Mobile,Electronics,3,25000,75000,Ghaziabad,Cash,2026-08
+ORD0888,3/21/2026,Customer_058,Mouse,Accessories,5,800,4000,Noida,Credit Card,2026-03
+ORD0889,1/1/2026,Customer_100,Mobile,Electronics,4,25000,100000,Meerut,Debit Card,2026-01
+ORD0890,7/6/2026,Customer_100,Keyboard,Accessories,1,1500,1500,Ghaziabad,Cash,2026-07
+ORD0891,7/18/2026,Customer_025,Mobile,Electronics,1,25000,25000,Ghaziabad,Debit Card,2026-07
+ORD0892,5/25/2026,Customer_042,Keyboard,Accessories,5,1500,7500,Gurugram,Credit Card,2026-05
+ORD0893,9/25/2026,Customer_085,Mouse,Accessories,1,800,800,Delhi,UPI,2026-09
+ORD0894,1/17/2026,Customer_026,Keyboard,Accessories,2,1500,3000,Delhi,Debit Card,2026-01
+ORD0895,1/17/2026,Customer_074,Monitor,Electronics,1,12000,12000,Meerut,Debit Card,2026-01
+ORD0896,5/12/2026,Customer_007,Tablet,Electronics,5,30000,150000,Noida,Cash,2026-05
+ORD0897,4/17/2026,Customer_084,Mouse,Accessories,1,800,800,Gurugram,UPI,2026-04
+ORD0898,7/4/2026,Customer_072,Tablet,Electronics,1,30000,30000,Meerut,Debit Card,2026-07
+ORD0899,5/17/2026,Customer_068,Mobile,Electronics,1,25000,25000,Delhi,UPI,2026-05
+ORD0900,4/21/2026,Customer_067,Printer,Office Equipment,1,15000,15000,Delhi,UPI,2026-04
+ORD0901,7/17/2026,Customer_025,Monitor,Electronics,5,12000,60000,Faridabad,Cash,2026-07
+ORD0902,8/1/2026,Customer_096,Keyboard,Accessories,5,1500,7500,Delhi,Credit Card,2026-08
+ORD0903,2/23/2026,Customer_022,Tablet,Electronics,4,30000,120000,Faridabad,Debit Card,2026-02
+ORD0904,8/15/2026,Customer_046,Mobile,Electronics,2,25000,50000,Noida,Credit Card,2026-08
+ORD0905,8/9/2026,Customer_093,Mobile,Electronics,4,25000,100000,Noida,Cash,2026-08
+ORD0906,5/11/2026,Customer_047,Monitor,Electronics,4,12000,48000,Gurugram,Debit Card,2026-05
+ORD0907,1/18/2026,Customer_037,Headphones,Accessories,1,2000,2000,Ghaziabad,UPI,2026-01
+ORD0908,1/4/2026,Customer_039,Keyboard,Accessories,3,1500,4500,Faridabad,Cash,2026-01
+ORD0909,5/22/2026,Customer_071,Mobile,Electronics,1,25000,25000,Ghaziabad,Cash,2026-05
+ORD0910,8/24/2026,Customer_046,Mouse,Accessories,1,800,800,Faridabad,Cash,2026-08
+ORD0911,5/8/2026,Customer_030,Printer,Office Equipment,3,15000,45000,Noida,Credit Card,2026-05
+ORD0912,7/24/2026,Customer_073,Mouse,Accessories,5,800,4000,Faridabad,UPI,2026-07
+ORD0913,3/30/2026,Customer_063,Mobile,Electronics,4,25000,100000,Meerut,UPI,2026-03
+ORD0914,7/15/2026,Customer_011,Printer,Office Equipment,1,15000,15000,Delhi,Credit Card,2026-07
+ORD0915,8/2/2026,Customer_016,Mobile,Electronics,4,25000,100000,Faridabad,UPI,2026-08
+ORD0916,6/6/2026,Customer_068,Headphones,Accessories,1,2000,2000,Delhi,Credit Card,2026-06
+ORD0917,9/15/2026,Customer_090,Keyboard,Accessories,3,1500,4500,Faridabad,Cash,2026-09
+ORD0918,8/17/2026,Customer_097,Laptop,Electronics,4,55000,220000,Ghaziabad,UPI,2026-08
+ORD0919,5/29/2026,Customer_051,Monitor,Electronics,4,12000,48000,Faridabad,Cash,2026-05
+ORD0920,9/1/2026,Customer_074,Mobile,Electronics,1,25000,25000,Meerut,UPI,2026-09
+ORD0921,2/13/2026,Customer_052,Headphones,Accessories,3,2000,6000,Ghaziabad,Debit Card,2026-02
+ORD0922,9/4/2026,Customer_072,Keyboard,Accessories,2,1500,3000,Faridabad,Debit Card,2026-09
+ORD0923,4/11/2026,Customer_072,Headphones,Accessories,5,2000,10000,Ghaziabad,Cash,2026-04
+ORD0924,5/17/2026,Customer_100,Monitor,Electronics,1,12000,12000,Gurugram,Credit Card,2026-05
+ORD0925,7/31/2026,Customer_055,Mouse,Accessories,1,800,800,Noida,Credit Card,2026-07
+ORD0926,6/26/2026,Customer_077,Monitor,Electronics,3,12000,36000,Meerut,UPI,2026-06
+ORD0927,6/29/2026,Customer_079,Printer,Office Equipment,2,15000,30000,Gurugram,Cash,2026-06
+ORD0928,4/30/2026,Customer_026,Tablet,Electronics,1,30000,30000,Meerut,Credit Card,2026-04
+ORD0929,2/27/2026,Customer_095,Keyboard,Accessories,1,1500,1500,Delhi,Cash,2026-02
+ORD0930,1/8/2026,Customer_044,Keyboard,Accessories,3,1500,4500,Meerut,UPI,2026-01
+ORD0931,8/30/2026,Customer_003,Printer,Office Equipment,4,15000,60000,Noida,Cash,2026-08
+ORD0932,9/25/2026,Customer_097,Monitor,Electronics,2,12000,24000,Noida,Debit Card,2026-09
+ORD0933,7/12/2026,Customer_075,Keyboard,Accessories,1,1500,1500,Meerut,UPI,2026-07
+ORD0934,1/31/2026,Customer_037,Printer,Office Equipment,2,15000,30000,Faridabad,Credit Card,2026-01
+ORD0935,1/5/2026,Customer_009,Laptop,Electronics,4,55000,220000,Gurugram,Credit Card,2026-01
+ORD0936,1/10/2026,Customer_038,Mobile,Electronics,1,25000,25000,Meerut,Debit Card,2026-01
+ORD0937,9/18/2026,Customer_091,Monitor,Electronics,4,12000,48000,Delhi,Credit Card,2026-09
+ORD0938,9/30/2026,Customer_012,Tablet,Electronics,5,30000,150000,Faridabad,Cash,2026-09
+ORD0939,1/12/2026,Customer_006,Tablet,Electronics,5,30000,150000,Faridabad,Credit Card,2026-01
+ORD0940,7/21/2026,Customer_096,Mobile,Electronics,4,25000,100000,Faridabad,UPI,2026-07
+ORD0941,7/1/2026,Customer_081,Mobile,Electronics,3,25000,75000,Noida,Cash,2026-07
+ORD0942,5/12/2026,Customer_050,Printer,Office Equipment,1,15000,15000,Delhi,Credit Card,2026-05
+ORD0943,6/24/2026,Customer_051,Monitor,Electronics,2,12000,24000,Meerut,Cash,2026-06
+ORD0944,9/24/2026,Customer_087,Mouse,Accessories,4,800,3200,Ghaziabad,Cash,2026-09
+ORD0945,3/20/2026,Customer_055,Headphones,Accessories,2,2000,4000,Noida,Credit Card,2026-03
+ORD0946,3/9/2026,Customer_027,Tablet,Electronics,5,30000,150000,Meerut,Cash,2026-03
+ORD0947,6/8/2026,Customer_089,Monitor,Electronics,2,12000,24000,Meerut,Cash,2026-06
+ORD0948,3/22/2026,Customer_041,Headphones,Accessories,2,2000,4000,Delhi,UPI,2026-03
+ORD0949,3/16/2026,Customer_094,Keyboard,Accessories,3,1500,4500,Delhi,Credit Card,2026-03
+ORD0950,6/5/2026,Customer_057,Headphones,Accessories,4,2000,8000,Meerut,Credit Card,2026-06
+ORD0951,2/24/2026,Customer_017,Keyboard,Accessories,2,1500,3000,Faridabad,UPI,2026-02
+ORD0952,4/29/2026,Customer_077,Printer,Office Equipment,5,15000,75000,Faridabad,Cash,2026-04
+ORD0953,2/10/2026,Customer_089,Laptop,Electronics,3,55000,165000,Gurugram,Cash,2026-02
+ORD0954,4/5/2026,Customer_050,Tablet,Electronics,3,30000,90000,Gurugram,Debit Card,2026-04
+ORD0955,4/9/2026,Customer_029,Keyboard,Accessories,2,1500,3000,Delhi,Debit Card,2026-04
+ORD0956,7/31/2026,Customer_029,Laptop,Electronics,3,55000,165000,Meerut,Cash,2026-07
+ORD0957,4/1/2026,Customer_057,Monitor,Electronics,1,12000,12000,Ghaziabad,Debit Card,2026-04
+ORD0958,5/7/2026,Customer_055,Mobile,Electronics,4,25000,100000,Gurugram,UPI,2026-05
+ORD0959,7/21/2026,Customer_079,Headphones,Accessories,3,2000,6000,Meerut,UPI,2026-07
+ORD0960,8/22/2026,Customer_006,Mouse,Accessories,4,800,3200,Faridabad,Debit Card,2026-08
+ORD0961,7/18/2026,Customer_067,Laptop,Electronics,5,55000,275000,Meerut,UPI,2026-07
+ORD0962,8/14/2026,Customer_051,Monitor,Electronics,3,12000,36000,Noida,Credit Card,2026-08
+ORD0963,8/5/2026,Customer_038,Tablet,Electronics,2,30000,60000,Ghaziabad,UPI,2026-08
+ORD0964,8/20/2026,Customer_012,Keyboard,Accessories,4,1500,6000,Meerut,UPI,2026-08
+ORD0965,3/11/2026,Customer_051,Keyboard,Accessories,5,1500,7500,Gurugram,Credit Card,2026-03
+ORD0966,4/2/2026,Customer_059,Tablet,Electronics,1,30000,30000,Ghaziabad,Cash,2026-04
+ORD0967,5/9/2026,Customer_042,Tablet,Electronics,1,30000,30000,Meerut,Cash,2026-05
+ORD0968,2/28/2026,Customer_091,Mouse,Accessories,1,800,800,Gurugram,Credit Card,2026-02
+ORD0969,7/16/2026,Customer_094,Mouse,Accessories,5,800,4000,Ghaziabad,Cash,2026-07
+ORD0970,7/14/2026,Customer_006,Headphones,Accessories,5,2000,10000,Faridabad,Credit Card,2026-07
+ORD0971,3/16/2026,Customer_023,Keyboard,Accessories,2,1500,3000,Meerut,UPI,2026-03
+ORD0972,6/8/2026,Customer_094,Headphones,Accessories,3,2000,6000,Gurugram,Credit Card,2026-06
+ORD0973,3/9/2026,Customer_026,Keyboard,Accessories,1,1500,1500,Delhi,Credit Card,2026-03
+ORD0974,9/12/2026,Customer_064,Laptop,Electronics,4,55000,220000,Ghaziabad,UPI,2026-09
+ORD0975,4/22/2026,Customer_076,Tablet,Electronics,2,30000,60000,Meerut,Debit Card,2026-04
+ORD0976,8/15/2026,Customer_011,Tablet,Electronics,4,30000,120000,Ghaziabad,UPI,2026-08
+ORD0977,5/23/2026,Customer_080,Monitor,Electronics,5,12000,60000,Meerut,Cash,2026-05
+ORD0978,3/17/2026,Customer_008,Laptop,Electronics,2,55000,110000,Meerut,Credit Card,2026-03
+ORD0979,1/17/2026,Customer_086,Laptop,Electronics,2,55000,110000,Ghaziabad,Credit Card,2026-01
+ORD0980,1/26/2026,Customer_014,Mobile,Electronics,1,25000,25000,Gurugram,Cash,2026-01
+ORD0981,4/1/2026,Customer_059,Keyboard,Accessories,3,1500,4500,Meerut,Credit Card,2026-04
+ORD0982,6/3/2026,Customer_042,Laptop,Electronics,1,55000,55000,Noida,Debit Card,2026-06
+ORD0983,2/3/2026,Customer_038,Mouse,Accessories,4,800,3200,Gurugram,Cash,2026-02
+ORD0984,6/18/2026,Customer_068,Mouse,Accessories,3,800,2400,Gurugram,Cash,2026-06
+ORD0985,1/30/2026,Customer_014,Monitor,Electronics,5,12000,60000,Ghaziabad,UPI,2026-01
+ORD0986,5/28/2026,Customer_055,Tablet,Electronics,5,30000,150000,Ghaziabad,Credit Card,2026-05
+ORD0987,7/1/2026,Customer_017,Printer,Office Equipment,5,15000,75000,Ghaziabad,Debit Card,2026-07
+ORD0988,4/3/2026,Customer_079,Tablet,Electronics,4,30000,120000,Faridabad,Credit Card,2026-04
+ORD0989,3/2/2026,Customer_004,Monitor,Electronics,1,12000,12000,Gurugram,UPI,2026-03
+ORD0990,8/1/2026,Customer_053,Monitor,Electronics,5,12000,60000,Delhi,Credit Card,2026-08
+ORD0991,4/19/2026,Customer_002,Mobile,Electronics,5,25000,125000,Meerut,Cash,2026-04
+ORD0992,2/4/2026,Customer_040,Printer,Office Equipment,3,15000,45000,Noida,Credit Card,2026-02
+ORD0993,6/20/2026,Customer_044,Laptop,Electronics,1,55000,55000,Gurugram,UPI,2026-06
+ORD0994,6/19/2026,Customer_044,Keyboard,Accessories,2,1500,3000,Meerut,Debit Card,2026-06
+ORD0995,3/11/2026,Customer_062,Tablet,Electronics,1,30000,30000,Faridabad,Debit Card,2026-03
+ORD0996,7/31/2026,Customer_096,Mobile,Electronics,4,25000,100000,Delhi,Credit Card,2026-07
+ORD0997,1/10/2026,Customer_027,Mobile,Electronics,5,25000,125000,Ghaziabad,Credit Card,2026-01
+ORD0998,3/18/2026,Customer_036,Mobile,Electronics,1,25000,25000,Delhi,Credit Card,2026-03
+ORD0999,3/26/2026,Customer_074,Headphones,Accessories,5,2000,10000,Ghaziabad,Debit Card,2026-03
+ORD1000,3/1/2026,Customer_097,Keyboard,Accessories,5,1500,7500,Noida,Credit Card,2026-03
